@@ -112,10 +112,10 @@ var placeBets = function(oddsStr) {
     return 0;
   });
 
-  // Bet on team with best odds
+  // Bet on team with worse odds, because why not
   setTimeout(function() {
-    console.log(chalk.gray.bgBlue('Betting ' + oddsByTeam[0][2] + ' 10%'));
-    clientWhisper.whisper('bot_cobalt', '!b ' + oddsByTeam[0][1] + ' 10%');
+    console.log(chalk.gray.bgBlue('Betting ' + oddsByTeam[1][2] + ' 10%'));
+    clientWhisper.whisper('bot_cobalt', '!b ' + oddsByTeam[1][1] + ' 10%');
   }, 4000);
 
   betCount++;
