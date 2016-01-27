@@ -8,6 +8,12 @@
 // continue to bet on the wrong team, even though it's pretty obvious the other
 // team has some kind of advantage right now.
 //
+// Be aware that I have noticed that over time, the dumb betting approach seems
+// to average out and result in quite subtantial wins due to upsets. Often I see
+// all the human players making an incorrect bet with my bot being the only one
+// making the correct one – enough of these add up to subtantial profits. Even
+// the losses aren't that bad as they're usually offset by combo wins.
+//
 // In short, picking a team to bet on is incredibly dumb and naive right now.
 // It would be good to do something more advanced that takes into consideration
 // things like recent w/l ratios, success of our previous bets, etc.
@@ -21,6 +27,8 @@
 //
 // Topics: genetic algorithms, probability, machine learning, prediction
 
+// TODO: Store a log of all match results for a day and use it to run betting
+// experiments on to immediately test varying approaches and their outcomes.
 // TODO: Log success or failure of last bet after each round
 // TODO: Keep track of bet success for all bets in the current match
 // TODO: After each round log success % for all bets in the current match
