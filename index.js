@@ -1,5 +1,32 @@
-// TODO: Bots switch at half-time so look at trends in odds / wins to get a
-// better idea of which team is doing well most recently
+// Team betting should take into account what the system wants to do and
+// compare it against actual win/loss trends. Basically, it should change its
+// approach if it's clearly not working!
+//
+// For example, the current system always bets for the team with the highest
+// odds because often this is the winning team for some reason. Of course, this
+// isn't always the case and the other team will always win instead, yet we
+// continue to bet on the wrong team, even though it's pretty obvious the other
+// team has some kind of advantage right now.
+//
+// In short, picking a team to bet on is incredibly dumb and naive right now.
+// It would be good to do something more advanced that takes into consideration
+// things like recent w/l ratios, success of our previous bets, etc.
+//
+// A very simple approach may be to just reverse the betting approach if 2 or
+// more games in a row aren't successful bets, or override the bet and go with
+// the team which has won the most rounds during the current match.
+//
+// Theoretically, as more rounds go by we should be able to refine and dial in
+// the betting approach to ultimately avoid making predictable mistakes.
+//
+// Topics: genetic algorithms, probability, machine learning, prediction
+
+// TODO: Log success or failure of last bet after each round
+// TODO: Keep track of bet success for all bets in the current match
+// TODO: After each round log success % for all bets in the current match
+// TODO: Track bet success trend after each round (getting better or worse?)
+// TODO: Request volts after the end of each match
+// TODO: Track volts % improvement and trend after each match
 
 var irc = require('tmi.js');
 var chalk = require('chalk');
