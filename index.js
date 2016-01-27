@@ -63,14 +63,20 @@ clientWhisper.connect().then(function() {
   return clientChat.connect();
 });
 
+// Docs on how the game works
+// http://pastebin.com/V0phNPRU
+
 // Example of action messages from bot_cobalt
 //
 // Round 5 resolved! Winning bets: blue, combo
 // Round 6 is about to begin! Place your bets! Odds: Red:3.00 Blue:1.48 Multi:37.82 Ace:51.15 Whole:10.75 Combo:1.63
+// Round 21 starting! No more bets! Total Bets: 37 , Total volts: 203781
+// Participation Bonus: Match Over +100 to all viewers!
+// Volts: rocketscientists:76263, grum_:101, iscre4m:113384, shoghicp:8470, profmobius:187446
 
 var regexRound = /(.*)winning bets(.*)/i;
 var regexBets = /(.*)place your bets(.*)/i;
-var regexVolts = /rawkes:(\d*)/i;
+var regexVolts = new RegExp(config.twitch.user + ':(\d*)', 'i');
 
 clientChat.on('action', function (channel, user, message, self) {
   if (!user || user.username != 'bot_cobalt') {
