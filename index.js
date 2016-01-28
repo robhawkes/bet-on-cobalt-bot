@@ -35,6 +35,7 @@
 // TODO: Track bet success trend after each round (getting better or worse?)
 // TODO: Request volts after the end of each match
 // TODO: Track volts % improvement and trend after each match
+// TODO: Get volts count after each round by whispering !b b
 
 var irc = require('tmi.js');
 var chalk = require('chalk');

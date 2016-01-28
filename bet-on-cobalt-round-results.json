@@ -1,0 +1,5540 @@
+[
+  [
+    {
+      "red": 1.83,
+      "blue": 2.16,
+      "multi": 25.52,
+      "ace": 44.27,
+      "whole": 11.06,
+      "combo": 1.56
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.07,
+      "blue": 1.9,
+      "multi": 25.82,
+      "ace": 44.8,
+      "whole": 11.19,
+      "combo": 1.55
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.22,
+      "blue": 1.79,
+      "multi": 26.17,
+      "ace": 45.4,
+      "whole": 11.34,
+      "combo": 1.54
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.87,
+      "blue": 2.1,
+      "multi": 26.54,
+      "ace": 46.04,
+      "whole": 11.5,
+      "combo": 1.53
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.11,
+      "blue": 1.87,
+      "multi": 26.72,
+      "ace": 46.45,
+      "whole": 11.6,
+      "combo": 1.52
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.17,
+      "blue": 1.82,
+      "multi": 27,
+      "ace": 46.94,
+      "whole": 11.72,
+      "combo": 1.51
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.09,
+      "red": 1.89,
+      "multi": 27.19,
+      "ace": 47.28,
+      "whole": 11.81,
+      "combo": 1.51
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 3.03,
+      "red": 1.47,
+      "multi": 27.4,
+      "ace": 47.63,
+      "whole": 11.89,
+      "combo": 1.5
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.34,
+      "red": 1.72,
+      "multi": 27.58,
+      "ace": 47.94,
+      "whole": 11.97,
+      "combo": 1.5
+    },
+    [
+      "whole",
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.63,
+      "red": 1.59,
+      "multi": 27.63,
+      "ace": 48.04,
+      "whole": 11.86,
+      "combo": 1.5
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.69,
+      "red": 1.57,
+      "multi": 27.83,
+      "ace": 48.38,
+      "whole": 11.94,
+      "combo": 1.49
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.83,
+      "red": 1.53,
+      "multi": 27.95,
+      "ace": 48.58,
+      "whole": 11.99,
+      "combo": 1.49
+    },
+    [
+      "multi",
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.92,
+      "blue": 2.05,
+      "multi": 24.21,
+      "ace": 43.11,
+      "whole": 10.64,
+      "combo": 1.6
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.19,
+      "blue": 1.81,
+      "multi": 24.43,
+      "ace": 43.5,
+      "whole": 10.73,
+      "combo": 1.59
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.24,
+      "blue": 1.78,
+      "multi": 24.65,
+      "ace": 43.89,
+      "whole": 10.82,
+      "combo": 1.58
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.35,
+      "blue": 1.71,
+      "multi": 24.85,
+      "ace": 44.25,
+      "whole": 10.91,
+      "combo": 1.58
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.44,
+      "blue": 1.67,
+      "multi": 25.05,
+      "ace": 44.61,
+      "whole": 11,
+      "combo": 1.57
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 2.13,
+      "blue": 1.85,
+      "multi": 25.29,
+      "ace": 45.04,
+      "whole": 11.11,
+      "combo": 1.56
+    },
+    [
+      "ace",
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.51,
+      "blue": 1.63,
+      "multi": 25.55,
+      "ace": 43.58,
+      "whole": 11.2,
+      "combo": 1.56
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.62,
+      "blue": 1.59,
+      "multi": 25.82,
+      "ace": 44.04,
+      "whole": 11.3,
+      "combo": 1.55
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.28,
+      "blue": 1.75,
+      "multi": 26.18,
+      "ace": 44.66,
+      "whole": 11.43,
+      "combo": 1.53
+    },
+    [
+      "red",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.18,
+      "blue": 1.82,
+      "multi": 26.57,
+      "ace": 45.33,
+      "whole": 11.46,
+      "combo": 1.52
+    },
+    [
+      "whole",
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 1.75,
+      "red": 2.28,
+      "multi": 26.86,
+      "ace": 45.83,
+      "whole": 11.46,
+      "combo": 1.52
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.49,
+      "red": 2.94,
+      "multi": 27.06,
+      "ace": 46.25,
+      "whole": 11.57,
+      "combo": 1.51
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.39,
+      "red": 1.69,
+      "multi": 27.33,
+      "ace": 46.71,
+      "whole": 11.68,
+      "combo": 1.5
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 1.93,
+      "red": 2.04,
+      "multi": 27.62,
+      "ace": 47.2,
+      "whole": 11.81,
+      "combo": 1.5
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.51,
+      "red": 2.87,
+      "multi": 27.87,
+      "ace": 47.63,
+      "whole": 11.91,
+      "combo": 1.49
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.57,
+      "red": 2.69,
+      "multi": 28.03,
+      "ace": 47.91,
+      "whole": 11.98,
+      "combo": 1.49
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.38,
+      "red": 1.7,
+      "multi": 28.23,
+      "ace": 48.24,
+      "whole": 12.04,
+      "combo": 1.48
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.48,
+      "red": 3.01,
+      "multi": 28.38,
+      "ace": 48.51,
+      "whole": 12.09,
+      "combo": 1.48
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.17,
+      "blue": 1.83,
+      "multi": 68.24,
+      "ace": 40.52,
+      "whole": 8.59,
+      "combo": 1.78
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 2.01,
+      "blue": 1.95,
+      "multi": 68.97,
+      "ace": 41.03,
+      "whole": 8.7,
+      "combo": 1.77
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.65,
+      "blue": 2.48,
+      "multi": 69.74,
+      "ace": 41.49,
+      "whole": 8.79,
+      "combo": 1.76
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.16,
+      "blue": 1.84,
+      "multi": 70.45,
+      "ace": 41.92,
+      "whole": 8.88,
+      "combo": 1.75
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.23,
+      "blue": 1.78,
+      "multi": 71.23,
+      "ace": 42.39,
+      "whole": 8.98,
+      "combo": 1.74
+    },
+    [
+      "red",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.96,
+      "blue": 2.01,
+      "multi": 72.06,
+      "ace": 42.88,
+      "whole": 8.94,
+      "combo": 1.73
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.6,
+      "blue": 2.61,
+      "multi": 72.82,
+      "ace": 43.33,
+      "whole": 9.03,
+      "combo": 1.72
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 2.2,
+      "blue": 1.81,
+      "multi": 73.54,
+      "ace": 43.76,
+      "whole": 9.12,
+      "combo": 1.71
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 2.07,
+      "blue": 1.9,
+      "multi": 74.17,
+      "ace": 44.15,
+      "whole": 9.2,
+      "combo": 1.71
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.99,
+      "blue": 1.97,
+      "multi": 74.87,
+      "ace": 44.57,
+      "whole": 9.29,
+      "combo": 1.69
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.09,
+      "red": 1.89,
+      "multi": 75.7,
+      "ace": 45.06,
+      "whole": 9.39,
+      "combo": 1.68
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 2.13,
+      "red": 1.85,
+      "multi": 76.63,
+      "ace": 45.63,
+      "whole": 9.51,
+      "combo": 1.67
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.64,
+      "red": 2.52,
+      "multi": 77.43,
+      "ace": 46.11,
+      "whole": 9.61,
+      "combo": 1.66
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.58,
+      "red": 2.66,
+      "multi": 78.28,
+      "ace": 46.61,
+      "whole": 9.72,
+      "combo": 1.65
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.15,
+      "red": 1.84,
+      "multi": 79.23,
+      "ace": 47.18,
+      "whole": 9.84,
+      "combo": 1.63
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 2.05,
+      "red": 1.92,
+      "multi": 80.26,
+      "ace": 47.79,
+      "whole": 9.96,
+      "combo": 1.62
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 2.33,
+      "blue": 1.72,
+      "multi": 33.87,
+      "ace": 60.92,
+      "whole": 12.24,
+      "combo": 1.46
+    },
+    [
+      "red",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.72,
+      "blue": 2.33,
+      "multi": 34.21,
+      "ace": 61.52,
+      "whole": 12.26,
+      "combo": 1.45
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.72,
+      "blue": 1.56,
+      "multi": 34.56,
+      "ace": 62.14,
+      "whole": 12.39,
+      "combo": 1.45
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.74,
+      "blue": 2.3,
+      "multi": 34.87,
+      "ace": 62.7,
+      "whole": 12.5,
+      "combo": 1.44
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.8,
+      "blue": 1.53,
+      "multi": 35.14,
+      "ace": 63.19,
+      "whole": 12.6,
+      "combo": 1.44
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.74,
+      "blue": 2.3,
+      "multi": 35.47,
+      "ace": 63.79,
+      "whole": 12.72,
+      "combo": 1.43
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.66,
+      "blue": 1.58,
+      "multi": 35.81,
+      "ace": 64.39,
+      "whole": 12.84,
+      "combo": 1.43
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.7,
+      "blue": 2.36,
+      "multi": 36.09,
+      "ace": 64.9,
+      "whole": 12.94,
+      "combo": 1.42
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.61,
+      "blue": 1.6,
+      "multi": 36.33,
+      "ace": 65.45,
+      "whole": 13.05,
+      "combo": 1.42
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.79,
+      "blue": 1.54,
+      "multi": 36.66,
+      "ace": 66.04,
+      "whole": 13.17,
+      "combo": 1.41
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.96,
+      "red": 2,
+      "multi": 36.98,
+      "ace": 66.62,
+      "whole": 13.28,
+      "combo": 1.4
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.79,
+      "red": 1.53,
+      "multi": 37.33,
+      "ace": 67.28,
+      "whole": 13.41,
+      "combo": 1.4
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.75,
+      "red": 1.55,
+      "multi": 37.66,
+      "ace": 67.87,
+      "whole": 13.53,
+      "combo": 1.4
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.34,
+      "red": 1.72,
+      "multi": 37.96,
+      "ace": 68.39,
+      "whole": 13.64,
+      "combo": 1.39
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.66,
+      "red": 2.45,
+      "multi": 38.34,
+      "ace": 69.07,
+      "whole": 13.78,
+      "combo": 1.39
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.87,
+      "red": 1.51,
+      "multi": 38.65,
+      "ace": 69.62,
+      "whole": 13.89,
+      "combo": 1.38
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.96,
+      "red": 1.49,
+      "multi": 39.04,
+      "ace": 70.3,
+      "whole": 14.03,
+      "combo": 1.38
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.77,
+      "red": 2.25,
+      "multi": 39.55,
+      "ace": 71.23,
+      "whole": 14.21,
+      "combo": 1.37
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.3,
+      "blue": 1.74,
+      "multi": 60.48,
+      "ace": 46.21,
+      "whole": 11.52,
+      "combo": 1.82
+    },
+    [
+      "red",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.66,
+      "blue": 2.45,
+      "multi": 60.97,
+      "ace": 46.6,
+      "whole": 11.46,
+      "combo": 1.81
+    },
+    [
+      "whole",
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.71,
+      "blue": 1.56,
+      "multi": 61.35,
+      "ace": 46.9,
+      "whole": 11.37,
+      "combo": 1.81
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.41,
+      "blue": 1.68,
+      "multi": 61.73,
+      "ace": 47.19,
+      "whole": 11.44,
+      "combo": 1.8
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.03,
+      "blue": 1.94,
+      "multi": 62.23,
+      "ace": 47.59,
+      "whole": 11.54,
+      "combo": 1.79
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.08,
+      "blue": 1.89,
+      "multi": 62.67,
+      "ace": 47.93,
+      "whole": 11.62,
+      "combo": 1.78
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.14,
+      "blue": 1.85,
+      "multi": 63.36,
+      "ace": 48.45,
+      "whole": 11.75,
+      "combo": 1.76
+    },
+    [
+      "multi",
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.17,
+      "blue": 1.82,
+      "multi": 59.66,
+      "ace": 48.97,
+      "whole": 11.88,
+      "combo": 1.75
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.7,
+      "blue": 2.38,
+      "multi": 60.1,
+      "ace": 49.34,
+      "whole": 11.97,
+      "combo": 1.74
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.91,
+      "blue": 2.06,
+      "multi": 60.51,
+      "ace": 49.68,
+      "whole": 12.05,
+      "combo": 1.73
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.31,
+      "red": 1.74,
+      "multi": 60.92,
+      "ace": 50.02,
+      "whole": 12.13,
+      "combo": 1.73
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.04,
+      "red": 1.92,
+      "multi": 61.45,
+      "ace": 50.45,
+      "whole": 12.24,
+      "combo": 1.71
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.41,
+      "red": 3.33,
+      "multi": 61.97,
+      "ace": 50.88,
+      "whole": 12.34,
+      "combo": 1.71
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.71,
+      "red": 2.36,
+      "multi": 62.41,
+      "ace": 51.24,
+      "whole": 12.43,
+      "combo": 1.7
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.23,
+      "red": 1.78,
+      "multi": 62.95,
+      "ace": 51.68,
+      "whole": 12.53,
+      "combo": 1.69
+    },
+    [
+      "whole",
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 1.65,
+      "blue": 2.48,
+      "multi": 49.71,
+      "ace": 43.62,
+      "whole": 11.75,
+      "combo": 1.74
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.91,
+      "blue": 2.05,
+      "multi": 50.06,
+      "ace": 43.93,
+      "whole": 11.83,
+      "combo": 1.74
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.98,
+      "blue": 1.98,
+      "multi": 50.42,
+      "ace": 44.25,
+      "whole": 11.91,
+      "combo": 1.73
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.75,
+      "blue": 2.29,
+      "multi": 50.89,
+      "ace": 44.66,
+      "whole": 12.02,
+      "combo": 1.71
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 3.18,
+      "blue": 1.44,
+      "multi": 51.49,
+      "ace": 45.18,
+      "whole": 12.16,
+      "combo": 1.7
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.79,
+      "blue": 2.23,
+      "multi": 51.95,
+      "ace": 45.59,
+      "whole": 12.27,
+      "combo": 1.69
+    },
+    [
+      "red",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.81,
+      "blue": 2.19,
+      "multi": 52.6,
+      "ace": 46.16,
+      "whole": 12.09,
+      "combo": 1.68
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.96,
+      "blue": 1.49,
+      "multi": 53.14,
+      "ace": 46.63,
+      "whole": 12.22,
+      "combo": 1.67
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.76,
+      "blue": 2.27,
+      "multi": 53.96,
+      "ace": 47.36,
+      "whole": 12.4,
+      "combo": 1.65
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.92,
+      "blue": 1.5,
+      "multi": 54.62,
+      "ace": 47.93,
+      "whole": 12.55,
+      "combo": 1.64
+    },
+    [
+      "multi",
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.78,
+      "red": 2.24,
+      "multi": 49.43,
+      "ace": 48.42,
+      "whole": 12.68,
+      "combo": 1.64
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.84,
+      "red": 1.52,
+      "multi": 49.88,
+      "ace": 48.86,
+      "whole": 12.8,
+      "combo": 1.63
+    },
+    [
+      "blue",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.78,
+      "red": 2.23,
+      "multi": 50.44,
+      "ace": 49.41,
+      "whole": 12.6,
+      "combo": 1.62
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.69,
+      "red": 1.57,
+      "multi": 50.95,
+      "ace": 49.91,
+      "whole": 12.73,
+      "combo": 1.61
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.83,
+      "red": 2.16,
+      "multi": 51.6,
+      "ace": 50.54,
+      "whole": 12.89,
+      "combo": 1.6
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 2.01,
+      "red": 1.96,
+      "multi": 52.07,
+      "ace": 51.01,
+      "whole": 13.01,
+      "combo": 1.6
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.76,
+      "red": 2.27,
+      "multi": 52.49,
+      "ace": 51.42,
+      "whole": 13.12,
+      "combo": 1.59
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.45,
+      "red": 1.66,
+      "multi": 52.99,
+      "ace": 51.91,
+      "whole": 13.23,
+      "combo": 1.59
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.1,
+      "blue": 1.88,
+      "multi": 70.45,
+      "ace": 41.83,
+      "whole": 8.72,
+      "combo": 1.8
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.95,
+      "blue": 2.02,
+      "multi": 71.16,
+      "ace": 42.25,
+      "whole": 8.81,
+      "combo": 1.79
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.59,
+      "blue": 2.64,
+      "multi": 71.72,
+      "ace": 42.58,
+      "whole": 8.88,
+      "combo": 1.78
+    },
+    [
+      "multi",
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.21,
+      "blue": 1.8,
+      "multi": 63.8,
+      "ace": 42.87,
+      "whole": 8.94,
+      "combo": 1.78
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.98,
+      "blue": 1.49,
+      "multi": 64.2,
+      "ace": 43.13,
+      "whole": 8.99,
+      "combo": 1.77
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.75,
+      "blue": 1.55,
+      "multi": 64.86,
+      "ace": 43.58,
+      "whole": 9.08,
+      "combo": 1.76
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.87,
+      "blue": 1.51,
+      "multi": 65.68,
+      "ace": 44.13,
+      "whole": 9.2,
+      "combo": 1.74
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.98,
+      "blue": 1.48,
+      "multi": 66.37,
+      "ace": 44.59,
+      "whole": 9.3,
+      "combo": 1.73
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 2.04,
+      "blue": 1.93,
+      "multi": 67.03,
+      "ace": 45.04,
+      "whole": 9.39,
+      "combo": 1.72
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.41,
+      "blue": 1.68,
+      "multi": 67.78,
+      "ace": 45.54,
+      "whole": 9.49,
+      "combo": 1.7
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.83,
+      "red": 2.16,
+      "multi": 68.52,
+      "ace": 46.04,
+      "whole": 9.6,
+      "combo": 1.69
+    },
+    [
+      "whole",
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 1.94,
+      "red": 2.03,
+      "multi": 69.11,
+      "ace": 46.43,
+      "whole": 9.52,
+      "combo": 1.69
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.38,
+      "red": 1.7,
+      "multi": 69.67,
+      "ace": 46.81,
+      "whole": 9.6,
+      "combo": 1.68
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 2.01,
+      "red": 1.95,
+      "multi": 70.38,
+      "ace": 47.29,
+      "whole": 9.7,
+      "combo": 1.67
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.55,
+      "red": 2.76,
+      "multi": 70.82,
+      "ace": 47.58,
+      "whole": 9.76,
+      "combo": 1.66
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.58,
+      "red": 2.65,
+      "multi": 71.24,
+      "ace": 47.87,
+      "whole": 9.82,
+      "combo": 1.66
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.05,
+      "red": 1.92,
+      "multi": 71.69,
+      "ace": 48.16,
+      "whole": 9.88,
+      "combo": 1.65
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.37,
+      "red": 1.71,
+      "multi": 72.15,
+      "ace": 48.47,
+      "whole": 9.94,
+      "combo": 1.65
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.6,
+      "red": 1.6,
+      "multi": 72.57,
+      "ace": 48.76,
+      "whole": 10,
+      "combo": 1.65
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.73,
+      "red": 1.56,
+      "multi": 72.91,
+      "ace": 48.99,
+      "whole": 10.05,
+      "combo": 1.65
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.79,
+      "red": 1.54,
+      "multi": 73.31,
+      "ace": 49.26,
+      "whole": 10.1,
+      "combo": 1.64
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "green": 2.33,
+      "purple": 1.72,
+      "multi": 58.43,
+      "ace": 95.99,
+      "whole": 10.18,
+      "combo": 1.77
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.32,
+      "purple": 1.73,
+      "multi": 58.62,
+      "ace": 96.29,
+      "whole": 10.21,
+      "combo": 1.77
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.19,
+      "purple": 1.81,
+      "multi": 58.87,
+      "ace": 96.67,
+      "whole": 10.26,
+      "combo": 1.76
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "green": 2.45,
+      "purple": 1.66,
+      "multi": 59.34,
+      "ace": 97.42,
+      "whole": 10.34,
+      "combo": 1.75
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 1.86,
+      "purple": 2.12,
+      "multi": 59.55,
+      "ace": 97.74,
+      "whole": 10.38,
+      "combo": 1.75
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 1.86,
+      "purple": 2.12,
+      "multi": 59.81,
+      "ace": 98.14,
+      "whole": 10.42,
+      "combo": 1.74
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "green": 2.3,
+      "purple": 1.74,
+      "multi": 60.06,
+      "ace": 98.53,
+      "whole": 10.46,
+      "combo": 1.74
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.36,
+      "purple": 1.7,
+      "multi": 60.32,
+      "ace": 98.95,
+      "whole": 10.51,
+      "combo": 1.73
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 1.84,
+      "purple": 2.14,
+      "multi": 60.65,
+      "ace": 99.31,
+      "whole": 10.57,
+      "combo": 1.72
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 1.8,
+      "purple": 2.21,
+      "multi": 60.88,
+      "ace": 99.67,
+      "whole": 10.61,
+      "combo": 1.72
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 2.13,
+      "green": 1.85,
+      "multi": 61.22,
+      "ace": 100.22,
+      "whole": 10.67,
+      "combo": 1.71
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.85,
+      "green": 2.13,
+      "multi": 61.7,
+      "ace": 101.01,
+      "whole": 10.75,
+      "combo": 1.7
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.65,
+      "green": 2.47,
+      "multi": 61.98,
+      "ace": 101.46,
+      "whole": 10.8,
+      "combo": 1.7
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 2.55,
+      "green": 1.62,
+      "multi": 62.4,
+      "ace": 102.13,
+      "whole": 10.87,
+      "combo": 1.69
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "purple": 1.89,
+      "green": 2.09,
+      "multi": 62.72,
+      "ace": 102.64,
+      "whole": 10.93,
+      "combo": 1.68
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "purple": 1.76,
+      "green": 2.26,
+      "multi": 63.19,
+      "ace": 103.41,
+      "whole": 11.01,
+      "combo": 1.68
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 2.48,
+      "green": 1.65,
+      "multi": 63.49,
+      "ace": 103.9,
+      "whole": 11.04,
+      "combo": 1.67
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "purple": 1.82,
+      "green": 2.17,
+      "multi": 63.75,
+      "ace": 104.32,
+      "whole": 11.09,
+      "combo": 1.67
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.76,
+      "green": 2.27,
+      "multi": 63.94,
+      "ace": 104.62,
+      "whole": 11.12,
+      "combo": 1.67
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "purple": 1.6,
+      "green": 2.6,
+      "multi": 64.16,
+      "ace": 104.97,
+      "whole": 11.16,
+      "combo": 1.66
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "purple": 1.76,
+      "green": 2.27,
+      "multi": 64.56,
+      "ace": 105.38,
+      "whole": 11.23,
+      "combo": 1.66
+    },
+    [
+      "purple",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.88,
+      "blue": 1.51,
+      "multi": 51.69,
+      "ace": 67.74,
+      "whole": 16.1,
+      "combo": 1.59
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.6,
+      "blue": 2.61,
+      "multi": 52.06,
+      "ace": 68.21,
+      "whole": 16.21,
+      "combo": 1.58
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.44,
+      "blue": 3.21,
+      "multi": 52.41,
+      "ace": 68.67,
+      "whole": 16.32,
+      "combo": 1.58
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.87,
+      "blue": 2.11,
+      "multi": 52.71,
+      "ace": 69.07,
+      "whole": 16.42,
+      "combo": 1.58
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 3.54,
+      "blue": 1.38,
+      "multi": 53.29,
+      "ace": 69.66,
+      "whole": 16.6,
+      "combo": 1.57
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.82,
+      "blue": 1.59,
+      "multi": 53.63,
+      "ace": 70.11,
+      "whole": 16.7,
+      "combo": 1.56
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.04,
+      "blue": 1.93,
+      "multi": 54.02,
+      "ace": 70.62,
+      "whole": 16.83,
+      "combo": 1.56
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.09,
+      "blue": 1.88,
+      "multi": 54.43,
+      "ace": 71.16,
+      "whole": 16.95,
+      "combo": 1.55
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.12,
+      "blue": 1.86,
+      "multi": 54.88,
+      "ace": 71.74,
+      "whole": 17.09,
+      "combo": 1.55
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.57,
+      "blue": 2.69,
+      "multi": 55.22,
+      "ace": 72.19,
+      "whole": 17.2,
+      "combo": 1.54
+    },
+    [
+      "ace",
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.93,
+      "red": 2.04,
+      "multi": 55.74,
+      "ace": 62.15,
+      "whole": 17.36,
+      "combo": 1.54
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.05,
+      "red": 1.92,
+      "multi": 56.13,
+      "ace": 62.59,
+      "whole": 17.48,
+      "combo": 1.53
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.6,
+      "red": 2.6,
+      "multi": 56.52,
+      "ace": 63.02,
+      "whole": 17.6,
+      "combo": 1.53
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.82,
+      "red": 2.18,
+      "multi": 56.94,
+      "ace": 63.49,
+      "whole": 17.74,
+      "combo": 1.53
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.76,
+      "red": 2.28,
+      "multi": 57.33,
+      "ace": 63.92,
+      "whole": 17.86,
+      "combo": 1.52
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.7,
+      "red": 2.38,
+      "multi": 57.72,
+      "ace": 64.37,
+      "whole": 17.98,
+      "combo": 1.52
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.24,
+      "blue": 1.78,
+      "multi": 57.43,
+      "ace": 47.1,
+      "whole": 11.27,
+      "combo": 1.83
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.78,
+      "blue": 1.54,
+      "multi": 57.65,
+      "ace": 47.28,
+      "whole": 11.31,
+      "combo": 1.82
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.48,
+      "blue": 1.65,
+      "multi": 57.97,
+      "ace": 47.54,
+      "whole": 11.37,
+      "combo": 1.81
+    },
+    [
+      "blue",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.11,
+      "blue": 1.87,
+      "multi": 58.45,
+      "ace": 47.94,
+      "whole": 11.32,
+      "combo": 1.8
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.15,
+      "blue": 1.84,
+      "multi": 58.77,
+      "ace": 48.2,
+      "whole": 11.38,
+      "combo": 1.8
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.18,
+      "blue": 1.82,
+      "multi": 59.11,
+      "ace": 48.48,
+      "whole": 11.45,
+      "combo": 1.79
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.68,
+      "blue": 2.41,
+      "multi": 59.53,
+      "ace": 48.83,
+      "whole": 11.53,
+      "combo": 1.78
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.83,
+      "blue": 1.52,
+      "multi": 60.02,
+      "ace": 49.23,
+      "whole": 11.62,
+      "combo": 1.77
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.55,
+      "blue": 1.62,
+      "multi": 60.7,
+      "ace": 49.79,
+      "whole": 11.75,
+      "combo": 1.75
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.72,
+      "blue": 2.34,
+      "multi": 61.26,
+      "ace": 50.25,
+      "whole": 11.86,
+      "combo": 1.74
+    },
+    [
+      "red",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.16,
+      "red": 1.83,
+      "multi": 61.86,
+      "ace": 50.74,
+      "whole": 11.82,
+      "combo": 1.73
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.95,
+      "red": 2.01,
+      "multi": 62.59,
+      "ace": 51.33,
+      "whole": 11.96,
+      "combo": 1.71
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.19,
+      "red": 1.81,
+      "multi": 63.28,
+      "ace": 51.9,
+      "whole": 12.09,
+      "combo": 1.7
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 3.25,
+      "red": 1.43,
+      "multi": 64.3,
+      "ace": 52.74,
+      "whole": 12.29,
+      "combo": 1.68
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.97,
+      "red": 2,
+      "multi": 65.57,
+      "ace": 53.78,
+      "whole": 12.53,
+      "combo": 1.66
+    },
+    [
+      "blue",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.37,
+      "red": 3.6,
+      "multi": 67.13,
+      "ace": 55.06,
+      "whole": 12.66,
+      "combo": 1.63
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.28,
+      "blue": 1.75,
+      "multi": 58.71,
+      "ace": 48.16,
+      "whole": 11.08,
+      "combo": 1.8
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.68,
+      "blue": 2.41,
+      "multi": 59.88,
+      "ace": 49.11,
+      "whole": 11.29,
+      "combo": 1.78
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.95,
+      "blue": 2.02,
+      "multi": 62.19,
+      "ace": 51.01,
+      "whole": 11.73,
+      "combo": 1.73
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.72,
+      "blue": 2.34,
+      "multi": 65.18,
+      "ace": 53.46,
+      "whole": 12.3,
+      "combo": 1.67
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.82,
+      "blue": 1.53,
+      "multi": 66.65,
+      "ace": 54.67,
+      "whole": 12.57,
+      "combo": 1.65
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.46,
+      "blue": 1.66,
+      "multi": 67.78,
+      "ace": 55.6,
+      "whole": 12.79,
+      "combo": 1.63
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.69,
+      "blue": 2.39,
+      "multi": 68.59,
+      "ace": 56.26,
+      "whole": 12.94,
+      "combo": 1.62
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.94,
+      "blue": 2.02,
+      "multi": 69.41,
+      "ace": 56.93,
+      "whole": 13.09,
+      "combo": 1.61
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.91,
+      "blue": 1.5,
+      "multi": 70.21,
+      "ace": 57.59,
+      "whole": 13.24,
+      "combo": 1.6
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.67,
+      "blue": 2.43,
+      "multi": 70.85,
+      "ace": 58.11,
+      "whole": 13.36,
+      "combo": 1.6
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.15,
+      "red": 1.84,
+      "multi": 71.4,
+      "ace": 58.56,
+      "whole": 13.47,
+      "combo": 1.59
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.99,
+      "red": 1.98,
+      "multi": 71.95,
+      "ace": 59.01,
+      "whole": 13.57,
+      "combo": 1.58
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.25,
+      "red": 1.77,
+      "multi": 72.39,
+      "ace": 59.38,
+      "whole": 13.66,
+      "combo": 1.58
+    },
+    [
+      "blue",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.02,
+      "red": 1.95,
+      "multi": 72.94,
+      "ace": 59.83,
+      "whole": 13.58,
+      "combo": 1.57
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.36,
+      "red": 3.64,
+      "multi": 73.34,
+      "ace": 60.16,
+      "whole": 13.66,
+      "combo": 1.57
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.71,
+      "red": 2.35,
+      "multi": 73.97,
+      "ace": 60.67,
+      "whole": 13.77,
+      "combo": 1.56
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.66,
+      "red": 2.45,
+      "multi": 75.32,
+      "ace": 61.78,
+      "whole": 14.02,
+      "combo": 1.54
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.64,
+      "red": 2.51,
+      "multi": 76.2,
+      "ace": 62.5,
+      "whole": 14.18,
+      "combo": 1.53
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.13,
+      "red": 1.85,
+      "multi": 77.02,
+      "ace": 63.17,
+      "whole": 14.34,
+      "combo": 1.53
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 1.95,
+      "blue": 2.01,
+      "multi": 24.7,
+      "ace": 42.13,
+      "whole": 10.62,
+      "combo": 1.59
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.92,
+      "blue": 2.04,
+      "multi": 25.08,
+      "ace": 42.79,
+      "whole": 10.79,
+      "combo": 1.58
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.8,
+      "blue": 2.21,
+      "multi": 25.42,
+      "ace": 43.38,
+      "whole": 10.94,
+      "combo": 1.57
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.13,
+      "blue": 1.85,
+      "multi": 25.81,
+      "ace": 44.04,
+      "whole": 11.1,
+      "combo": 1.56
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.84,
+      "blue": 2.14,
+      "multi": 26.03,
+      "ace": 44.41,
+      "whole": 11.2,
+      "combo": 1.55
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.78,
+      "blue": 2.24,
+      "multi": 26.33,
+      "ace": 44.93,
+      "whole": 11.33,
+      "combo": 1.54
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.71,
+      "blue": 2.36,
+      "multi": 26.64,
+      "ace": 45.46,
+      "whole": 11.46,
+      "combo": 1.53
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.67,
+      "blue": 2.44,
+      "multi": 27.02,
+      "ace": 46.1,
+      "whole": 11.62,
+      "combo": 1.52
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.1,
+      "blue": 1.88,
+      "multi": 27.34,
+      "ace": 46.65,
+      "whole": 11.76,
+      "combo": 1.51
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.17,
+      "blue": 1.82,
+      "multi": 27.69,
+      "ace": 47.25,
+      "whole": 11.91,
+      "combo": 1.5
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.03,
+      "red": 1.94,
+      "multi": 28.09,
+      "ace": 47.93,
+      "whole": 12.08,
+      "combo": 1.49
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.92,
+      "red": 1.5,
+      "multi": 28.35,
+      "ace": 48.38,
+      "whole": 12.2,
+      "combo": 1.48
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.26,
+      "red": 1.76,
+      "multi": 28.61,
+      "ace": 48.82,
+      "whole": 12.31,
+      "combo": 1.47
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.74,
+      "red": 1.55,
+      "multi": 28.87,
+      "ace": 49.26,
+      "whole": 12.42,
+      "combo": 1.47
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.79,
+      "red": 1.54,
+      "multi": 29.18,
+      "ace": 49.78,
+      "whole": 12.55,
+      "combo": 1.46
+    },
+    [
+      "blue",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.66,
+      "red": 2.46,
+      "multi": 29.46,
+      "ace": 50.26,
+      "whole": 12.54,
+      "combo": 1.46
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.66,
+      "red": 2.46,
+      "multi": 29.77,
+      "ace": 50.8,
+      "whole": 12.67,
+      "combo": 1.45
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.51,
+      "red": 2.87,
+      "multi": 30.2,
+      "ace": 51.53,
+      "whole": 12.85,
+      "combo": 1.44
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.76,
+      "green": 2.27,
+      "multi": 37.68,
+      "ace": 53.01,
+      "whole": 10.19,
+      "combo": 1.72
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "purple": 1.47,
+      "green": 3.06,
+      "multi": 38.33,
+      "ace": 53.92,
+      "whole": 10.36,
+      "combo": 1.71
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.95,
+      "green": 2.02,
+      "multi": 38.67,
+      "ace": 54.4,
+      "whole": 10.46,
+      "combo": 1.7
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 2.19,
+      "green": 1.81,
+      "multi": 39.11,
+      "ace": 55.02,
+      "whole": 10.57,
+      "combo": 1.68
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 3.63,
+      "green": 1.36,
+      "multi": 39.63,
+      "ace": 55.75,
+      "whole": 10.72,
+      "combo": 1.67
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.46,
+      "green": 3.09,
+      "multi": 40.15,
+      "ace": 56.48,
+      "whole": 10.85,
+      "combo": 1.65
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.99,
+      "green": 1.98,
+      "multi": 40.7,
+      "ace": 57.26,
+      "whole": 11,
+      "combo": 1.64
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "purple": 1.81,
+      "green": 2.19,
+      "multi": 41.27,
+      "ace": 58.06,
+      "whole": 11.16,
+      "combo": 1.63
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.75,
+      "green": 2.28,
+      "multi": 41.7,
+      "ace": 58.66,
+      "whole": 11.27,
+      "combo": 1.62
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "purple": 1.72,
+      "green": 2.33,
+      "multi": 42.37,
+      "ace": 59.6,
+      "whole": 11.45,
+      "combo": 1.6
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "green": 1.87,
+      "purple": 2.11,
+      "multi": 42.75,
+      "ace": 60.14,
+      "whole": 11.56,
+      "combo": 1.6
+    },
+    [
+      "multi",
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.08,
+      "purple": 1.89,
+      "multi": 40.79,
+      "ace": 60.85,
+      "whole": 11.69,
+      "combo": 1.59
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 3.18,
+      "purple": 1.44,
+      "multi": 41.15,
+      "ace": 61.38,
+      "whole": 11.79,
+      "combo": 1.58
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "green": 1.69,
+      "purple": 2.4,
+      "multi": 41.55,
+      "ace": 61.97,
+      "whole": 11.91,
+      "combo": 1.58
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.34,
+      "purple": 1.72,
+      "multi": 59.22,
+      "ace": 97.29,
+      "whole": 10.25,
+      "combo": 1.77
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "green": 1.79,
+      "purple": 2.21,
+      "multi": 59.79,
+      "ace": 98.23,
+      "whole": 10.35,
+      "combo": 1.76
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "green": 1.75,
+      "purple": 2.28,
+      "multi": 60.26,
+      "ace": 98.99,
+      "whole": 10.43,
+      "combo": 1.75
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.28,
+      "purple": 1.75,
+      "multi": 60.65,
+      "ace": 99.62,
+      "whole": 10.5,
+      "combo": 1.74
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 1.77,
+      "purple": 2.26,
+      "multi": 61.1,
+      "ace": 100.36,
+      "whole": 10.57,
+      "combo": 1.73
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.27,
+      "purple": 1.75,
+      "multi": 61.58,
+      "ace": 101.13,
+      "whole": 10.65,
+      "combo": 1.72
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.16,
+      "purple": 1.83,
+      "multi": 62.13,
+      "ace": 102.04,
+      "whole": 10.75,
+      "combo": 1.71
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.34,
+      "purple": 1.72,
+      "multi": 62.77,
+      "ace": 103.1,
+      "whole": 10.86,
+      "combo": 1.7
+    },
+    [
+      "purple",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.36,
+      "purple": 1.71,
+      "multi": 63.47,
+      "ace": 104.24,
+      "whole": 10.91,
+      "combo": 1.68
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.41,
+      "purple": 1.68,
+      "multi": 64.19,
+      "ace": 105.42,
+      "whole": 11.04,
+      "combo": 1.67
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.99,
+      "green": 1.98,
+      "multi": 64.96,
+      "ace": 106.67,
+      "whole": 11.17,
+      "combo": 1.66
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "purple": 2.55,
+      "green": 1.62,
+      "multi": 66.04,
+      "ace": 108.45,
+      "whole": 11.35,
+      "combo": 1.64
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.75,
+      "green": 2.27,
+      "multi": 66.95,
+      "ace": 109.93,
+      "whole": 11.51,
+      "combo": 1.63
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.62,
+      "green": 2.54,
+      "multi": 68.13,
+      "ace": 111.86,
+      "whole": 11.71,
+      "combo": 1.61
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 2.51,
+      "green": 1.63,
+      "multi": 69.41,
+      "ace": 113.95,
+      "whole": 11.93,
+      "combo": 1.59
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.75,
+      "green": 2.29,
+      "multi": 70.79,
+      "ace": 116.21,
+      "whole": 12.17,
+      "combo": 1.57
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.83,
+      "blue": 2.16,
+      "multi": 37.08,
+      "ace": 50.13,
+      "whole": 10.14,
+      "combo": 1.69
+    },
+    [
+      "whole",
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.61,
+      "blue": 2.59,
+      "multi": 37.99,
+      "ace": 51.35,
+      "whole": 10.2,
+      "combo": 1.66
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 3.17,
+      "blue": 1.44,
+      "multi": 38.78,
+      "ace": 52.42,
+      "whole": 10.41,
+      "combo": 1.65
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.12,
+      "blue": 1.86,
+      "multi": 39.38,
+      "ace": 53.24,
+      "whole": 10.57,
+      "combo": 1.63
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.84,
+      "blue": 1.52,
+      "multi": 39.94,
+      "ace": 54,
+      "whole": 10.72,
+      "combo": 1.62
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.63,
+      "blue": 2.53,
+      "multi": 40.69,
+      "ace": 55.01,
+      "whole": 10.92,
+      "combo": 1.6
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 3.21,
+      "blue": 1.43,
+      "multi": 41.23,
+      "ace": 55.73,
+      "whole": 11.06,
+      "combo": 1.59
+    },
+    [
+      "red",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.65,
+      "blue": 2.49,
+      "multi": 42.18,
+      "ace": 57.03,
+      "whole": 11.12,
+      "combo": 1.57
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.6,
+      "blue": 2.8,
+      "multi": 43.03,
+      "ace": 58.17,
+      "whole": 11.34,
+      "combo": 1.56
+    },
+    [
+      "blue",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.9,
+      "blue": 1.5,
+      "multi": 43.82,
+      "ace": 59.24,
+      "whole": 11.34,
+      "combo": 1.55
+    },
+    [
+      "blue",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.74,
+      "red": 2.3,
+      "multi": 44.5,
+      "ace": 60.15,
+      "whole": 11.32,
+      "combo": 1.54
+    },
+    [
+      "ace",
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.66,
+      "red": 2.46,
+      "multi": 45.27,
+      "ace": 56.01,
+      "whole": 11.51,
+      "combo": 1.53
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.65,
+      "red": 2.65,
+      "multi": 45.98,
+      "ace": 56.89,
+      "whole": 11.7,
+      "combo": 1.52
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.67,
+      "red": 2.44,
+      "multi": 46.42,
+      "ace": 57.43,
+      "whole": 11.81,
+      "combo": 1.51
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.64,
+      "red": 2.5,
+      "multi": 47.2,
+      "ace": 58.4,
+      "whole": 12,
+      "combo": 1.5
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.7,
+      "blue": 1.57,
+      "multi": 53.91,
+      "ace": 60.25,
+      "whole": 16.79,
+      "combo": 1.58
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.56,
+      "blue": 2.73,
+      "multi": 54.62,
+      "ace": 61.04,
+      "whole": 17.01,
+      "combo": 1.58
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 3.61,
+      "blue": 1.37,
+      "multi": 55.32,
+      "ace": 61.83,
+      "whole": 17.23,
+      "combo": 1.57
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.88,
+      "blue": 1.58,
+      "multi": 55.89,
+      "ace": 62.47,
+      "whole": 17.41,
+      "combo": 1.56
+    },
+    [
+      "multi",
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.06,
+      "blue": 1.91,
+      "multi": 50.02,
+      "ace": 63.26,
+      "whole": 17.63,
+      "combo": 1.55
+    },
+    [
+      "blue",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.12,
+      "blue": 1.86,
+      "multi": 50.6,
+      "ace": 64,
+      "whole": 17.13,
+      "combo": 1.55
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.22,
+      "blue": 1.79,
+      "multi": 51.34,
+      "ace": 64.93,
+      "whole": 17.38,
+      "combo": 1.54
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.28,
+      "blue": 1.75,
+      "multi": 51.88,
+      "ace": 65.61,
+      "whole": 17.57,
+      "combo": 1.53
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.35,
+      "blue": 1.71,
+      "multi": 52.43,
+      "ace": 66.31,
+      "whole": 17.76,
+      "combo": 1.52
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.43,
+      "blue": 1.67,
+      "multi": 53.05,
+      "ace": 67.09,
+      "whole": 17.97,
+      "combo": 1.52
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.77,
+      "red": 2.26,
+      "multi": 53.7,
+      "ace": 67.92,
+      "whole": 18.19,
+      "combo": 1.51
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.39,
+      "red": 1.69,
+      "multi": 54.4,
+      "ace": 68.8,
+      "whole": 18.43,
+      "combo": 1.5
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.36,
+      "red": 1.71,
+      "multi": 55.05,
+      "ace": 69.61,
+      "whole": 18.65,
+      "combo": 1.5
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.35,
+      "red": 1.72,
+      "multi": 55.54,
+      "ace": 70.14,
+      "whole": 18.82,
+      "combo": 1.49
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.42,
+      "red": 1.68,
+      "multi": 55.77,
+      "ace": 70.34,
+      "whole": 18.9,
+      "combo": 1.49
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.48,
+      "red": 1.65,
+      "multi": 56,
+      "ace": 70.63,
+      "whole": 19,
+      "combo": 1.48
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.6,
+      "red": 1.6,
+      "multi": 56.27,
+      "ace": 70.98,
+      "whole": 19.09,
+      "combo": 1.48
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.97,
+      "red": 2,
+      "multi": 56.59,
+      "ace": 71.37,
+      "whole": 19.2,
+      "combo": 1.48
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.58,
+      "red": 1.61,
+      "multi": 56.91,
+      "ace": 71.78,
+      "whole": 19.31,
+      "combo": 1.47
+    },
+    [
+      "red",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.56,
+      "red": 1.62,
+      "multi": 57.4,
+      "ace": 72.4,
+      "whole": 18.74,
+      "combo": 1.47
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.53,
+      "red": 1.63,
+      "multi": 57.8,
+      "ace": 72.91,
+      "whole": 18.87,
+      "combo": 1.47
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.06,
+      "red": 1.91,
+      "multi": 29.45,
+      "ace": 71.39,
+      "whole": 9.42,
+      "combo": 1.6
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.79,
+      "red": 2.22,
+      "multi": 29.79,
+      "ace": 72.2,
+      "whole": 9.53,
+      "combo": 1.58
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.74,
+      "red": 2.3,
+      "multi": 30.14,
+      "ace": 73.05,
+      "whole": 9.64,
+      "combo": 1.57
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.54,
+      "red": 2.76,
+      "multi": 30.53,
+      "ace": 73.99,
+      "whole": 9.77,
+      "combo": 1.56
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.62,
+      "red": 2.54,
+      "multi": 30.96,
+      "ace": 75.05,
+      "whole": 9.91,
+      "combo": 1.55
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.77,
+      "red": 2.25,
+      "multi": 31.42,
+      "ace": 76.14,
+      "whole": 10.05,
+      "combo": 1.54
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.76,
+      "red": 2.26,
+      "multi": 31.91,
+      "ace": 77.33,
+      "whole": 10.21,
+      "combo": 1.53
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.74,
+      "red": 2.31,
+      "multi": 32.24,
+      "ace": 78.15,
+      "whole": 10.32,
+      "combo": 1.52
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.7,
+      "red": 2.37,
+      "multi": 32.52,
+      "ace": 78.81,
+      "whole": 10.4,
+      "combo": 1.52
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.68,
+      "red": 2.41,
+      "multi": 32.86,
+      "ace": 79.63,
+      "whole": 10.51,
+      "combo": 1.51
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.69,
+      "blue": 1.57,
+      "multi": 33.24,
+      "ace": 80.56,
+      "whole": 10.63,
+      "combo": 1.5
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.22,
+      "blue": 1.79,
+      "multi": 33.53,
+      "ace": 81.27,
+      "whole": 10.73,
+      "combo": 1.5
+    },
+    [
+      "multi",
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.69,
+      "blue": 2.39,
+      "multi": 32.68,
+      "ace": 81.98,
+      "whole": 10.82,
+      "combo": 1.49
+    },
+    [
+      "whole",
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.3,
+      "blue": 4.14,
+      "multi": 32.78,
+      "ace": 82.24,
+      "whole": 10.74,
+      "combo": 1.49
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.1,
+      "blue": 1.88,
+      "multi": 32.88,
+      "ace": 82.5,
+      "whole": 10.77,
+      "combo": 1.49
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.32,
+      "purple": 1.73,
+      "multi": 59.83,
+      "ace": 98.29,
+      "whole": 10.29,
+      "combo": 1.76
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.31,
+      "purple": 1.74,
+      "multi": 60.31,
+      "ace": 99.08,
+      "whole": 10.38,
+      "combo": 1.75
+    },
+    [
+      "green",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 1.79,
+      "purple": 2.21,
+      "multi": 60.88,
+      "ace": 100.02,
+      "whole": 10.41,
+      "combo": 1.74
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "green": 2.29,
+      "purple": 1.74,
+      "multi": 61.48,
+      "ace": 101,
+      "whole": 10.51,
+      "combo": 1.73
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "green": 2.19,
+      "purple": 1.81,
+      "multi": 61.98,
+      "ace": 101.82,
+      "whole": 10.6,
+      "combo": 1.72
+    },
+    [
+      "ace",
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.43,
+      "purple": 1.67,
+      "multi": 62.46,
+      "ace": 96.85,
+      "whole": 10.68,
+      "combo": 1.71
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 1.8,
+      "purple": 2.2,
+      "multi": 62.94,
+      "ace": 97.59,
+      "whole": 10.76,
+      "combo": 1.7
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 1.78,
+      "purple": 2.23,
+      "multi": 63.46,
+      "ace": 98.39,
+      "whole": 10.85,
+      "combo": 1.69
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.28,
+      "purple": 1.75,
+      "multi": 64.15,
+      "ace": 99.47,
+      "whole": 10.97,
+      "combo": 1.68
+    },
+    [
+      "purple",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.19,
+      "purple": 1.8,
+      "multi": 64.87,
+      "ace": 100.58,
+      "whole": 11.02,
+      "combo": 1.67
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 2.12,
+      "green": 1.86,
+      "multi": 65.65,
+      "ace": 101.8,
+      "whole": 11.15,
+      "combo": 1.65
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.82,
+      "green": 2.18,
+      "multi": 66.4,
+      "ace": 102.95,
+      "whole": 11.28,
+      "combo": 1.64
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.71,
+      "green": 2.35,
+      "multi": 67.19,
+      "ace": 104.18,
+      "whole": 11.41,
+      "combo": 1.63
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.89,
+      "green": 2.08,
+      "multi": 68.11,
+      "ace": 105.61,
+      "whole": 11.57,
+      "combo": 1.61
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 2.65,
+      "green": 1.58,
+      "multi": 69.09,
+      "ace": 107.12,
+      "whole": 11.73,
+      "combo": 1.6
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.79,
+      "blue": 2.22,
+      "multi": 38.37,
+      "ace": 47.47,
+      "whole": 9.76,
+      "combo": 1.7
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 3.17,
+      "blue": 1.44,
+      "multi": 39.08,
+      "ace": 48.36,
+      "whole": 9.94,
+      "combo": 1.69
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.17,
+      "blue": 1.83,
+      "multi": 39.7,
+      "ace": 49.12,
+      "whole": 10.1,
+      "combo": 1.67
+    },
+    [
+      "multi",
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.77,
+      "blue": 1.54,
+      "multi": 37.66,
+      "ace": 49.78,
+      "whole": 10.23,
+      "combo": 1.66
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.9,
+      "blue": 1.51,
+      "multi": 38.08,
+      "ace": 50.35,
+      "whole": 10.35,
+      "combo": 1.65
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.99,
+      "blue": 1.48,
+      "multi": 38.44,
+      "ace": 50.81,
+      "whole": 10.44,
+      "combo": 1.65
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.7,
+      "blue": 2.37,
+      "multi": 38.78,
+      "ace": 51.26,
+      "whole": 10.54,
+      "combo": 1.64
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 3.42,
+      "blue": 1.4,
+      "multi": 39.08,
+      "ace": 51.66,
+      "whole": 10.62,
+      "combo": 1.63
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.38,
+      "blue": 1.7,
+      "multi": 39.41,
+      "ace": 52.1,
+      "whole": 10.71,
+      "combo": 1.63
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 3.07,
+      "blue": 1.46,
+      "multi": 39.75,
+      "ace": 52.55,
+      "whole": 10.8,
+      "combo": 1.62
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.52,
+      "red": 2.84,
+      "multi": 40.18,
+      "ace": 53.12,
+      "whole": 10.92,
+      "combo": 1.61
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2,
+      "red": 1.96,
+      "multi": 40.62,
+      "ace": 53.7,
+      "whole": 11.04,
+      "combo": 1.6
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.47,
+      "red": 3.03,
+      "multi": 41.02,
+      "ace": 54.23,
+      "whole": 11.15,
+      "combo": 1.59
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 1.95,
+      "red": 2.01,
+      "multi": 41.47,
+      "ace": 54.82,
+      "whole": 11.27,
+      "combo": 1.58
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.33,
+      "purple": 1.72,
+      "multi": 60.47,
+      "ace": 93.77,
+      "whole": 10.28,
+      "combo": 1.76
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "green": 1.79,
+      "purple": 2.21,
+      "multi": 61.04,
+      "ace": 94.64,
+      "whole": 10.37,
+      "combo": 1.74
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "green": 2.32,
+      "purple": 1.73,
+      "multi": 61.5,
+      "ace": 95.36,
+      "whole": 10.45,
+      "combo": 1.74
+    },
+    [
+      "purple"
+    ]
+  ],
+  [
+    {
+      "green": 2.22,
+      "purple": 1.79,
+      "multi": 61.91,
+      "ace": 96,
+      "whole": 10.52,
+      "combo": 1.73
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 2.41,
+      "purple": 1.68,
+      "multi": 62.26,
+      "ace": 96.54,
+      "whole": 10.58,
+      "combo": 1.72
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 1.81,
+      "purple": 2.18,
+      "multi": 62.72,
+      "ace": 97.25,
+      "whole": 10.66,
+      "combo": 1.71
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "green": 1.8,
+      "purple": 2.2,
+      "multi": 63.24,
+      "ace": 98.05,
+      "whole": 10.75,
+      "combo": 1.7
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "green": 2.2,
+      "purple": 1.8,
+      "multi": 63.78,
+      "ace": 98.89,
+      "whole": 10.84,
+      "combo": 1.69
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "green": 2.15,
+      "purple": 1.83,
+      "multi": 64.28,
+      "ace": 99.66,
+      "whole": 10.92,
+      "combo": 1.69
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "green": 2.1,
+      "purple": 1.88,
+      "multi": 64.73,
+      "ace": 100.37,
+      "whole": 11,
+      "combo": 1.68
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 2.14,
+      "green": 1.84,
+      "multi": 65.18,
+      "ace": 101.06,
+      "whole": 11.08,
+      "combo": 1.67
+    },
+    [
+      "green"
+    ]
+  ],
+  [
+    {
+      "purple": 2.69,
+      "green": 1.57,
+      "multi": 65.69,
+      "ace": 101.86,
+      "whole": 11.16,
+      "combo": 1.66
+    },
+    [
+      "green",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.96,
+      "green": 2,
+      "multi": 66.12,
+      "ace": 102.51,
+      "whole": 11.17,
+      "combo": 1.66
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.94,
+      "green": 2.02,
+      "multi": 66.56,
+      "ace": 103.2,
+      "whole": 11.24,
+      "combo": 1.65
+    },
+    [
+      "purple",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 1.86,
+      "green": 2.13,
+      "multi": 67.14,
+      "ace": 104.09,
+      "whole": 11.34,
+      "combo": 1.64
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "purple": 2.74,
+      "green": 1.55,
+      "multi": 67.75,
+      "ace": 105.04,
+      "whole": 11.44,
+      "combo": 1.63
+    },
+    [
+      "green",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.56,
+      "blue": 1.62,
+      "multi": 50.29,
+      "ace": 63.6,
+      "whole": 16.38,
+      "combo": 1.59
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 3.68,
+      "blue": 1.36,
+      "multi": 51.05,
+      "ace": 64.56,
+      "whole": 16.63,
+      "combo": 1.58
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 3,
+      "blue": 1.54,
+      "multi": 51.96,
+      "ace": 65.71,
+      "whole": 16.93,
+      "combo": 1.56
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.39,
+      "blue": 1.69,
+      "multi": 52.94,
+      "ace": 66.95,
+      "whole": 17.25,
+      "combo": 1.54
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.52,
+      "blue": 1.63,
+      "multi": 53.99,
+      "ace": 68.27,
+      "whole": 17.59,
+      "combo": 1.53
+    },
+    [
+      "blue",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.58,
+      "blue": 1.61,
+      "multi": 55,
+      "ace": 69.55,
+      "whole": 17.26,
+      "combo": 1.52
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.68,
+      "blue": 2.41,
+      "multi": 55.98,
+      "ace": 70.79,
+      "whole": 17.57,
+      "combo": 1.51
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.48,
+      "blue": 3,
+      "multi": 56.97,
+      "ace": 72.05,
+      "whole": 17.88,
+      "combo": 1.49
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 4.04,
+      "blue": 1.31,
+      "multi": 57.51,
+      "ace": 72.72,
+      "whole": 18.05,
+      "combo": 1.49
+    },
+    [
+      "ace",
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.64,
+      "blue": 2.51,
+      "multi": 57.99,
+      "ace": 63.93,
+      "whole": 18.2,
+      "combo": 1.49
+    },
+    [
+      "whole",
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.84,
+      "red": 2.15,
+      "multi": 58.51,
+      "ace": 64.5,
+      "whole": 17.71,
+      "combo": 1.49
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.93,
+      "red": 2.04,
+      "multi": 58.89,
+      "ace": 64.93,
+      "whole": 17.83,
+      "combo": 1.49
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.51,
+      "red": 1.64,
+      "multi": 59.26,
+      "ace": 65.32,
+      "whole": 17.94,
+      "combo": 1.48
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.53,
+      "red": 1.63,
+      "multi": 59.61,
+      "ace": 65.72,
+      "whole": 18.05,
+      "combo": 1.48
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 2.01,
+      "red": 1.96,
+      "multi": 60.01,
+      "ace": 66.16,
+      "whole": 18.17,
+      "combo": 1.48
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.52,
+      "red": 2.85,
+      "multi": 60.35,
+      "ace": 66.53,
+      "whole": 18.27,
+      "combo": 1.47
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 1.62,
+      "blue": 2.56,
+      "multi": 46.7,
+      "ace": 45.75,
+      "whole": 11.67,
+      "combo": 1.73
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.88,
+      "blue": 2.09,
+      "multi": 47.32,
+      "ace": 46.36,
+      "whole": 11.83,
+      "combo": 1.71
+    },
+    [
+      "red",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.97,
+      "blue": 2,
+      "multi": 48.11,
+      "ace": 47.13,
+      "whole": 11.72,
+      "combo": 1.7
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.82,
+      "blue": 2.18,
+      "multi": 48.85,
+      "ace": 47.85,
+      "whole": 11.9,
+      "combo": 1.69
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.94,
+      "blue": 1.5,
+      "multi": 49.54,
+      "ace": 48.54,
+      "whole": 12.07,
+      "combo": 1.68
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.84,
+      "blue": 2.14,
+      "multi": 50.14,
+      "ace": 49.12,
+      "whole": 12.22,
+      "combo": 1.67
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.86,
+      "blue": 1.52,
+      "multi": 50.63,
+      "ace": 49.6,
+      "whole": 12.34,
+      "combo": 1.66
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.53,
+      "blue": 1.63,
+      "multi": 51.22,
+      "ace": 50.18,
+      "whole": 12.48,
+      "combo": 1.65
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.89,
+      "blue": 2.08,
+      "multi": 51.89,
+      "ace": 50.83,
+      "whole": 12.64,
+      "combo": 1.63
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.94,
+      "blue": 2.03,
+      "multi": 52.53,
+      "ace": 51.46,
+      "whole": 12.8,
+      "combo": 1.62
+    },
+    [
+      "ace",
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.74,
+      "red": 2.3,
+      "multi": 53.28,
+      "ace": 47.36,
+      "whole": 12.98,
+      "combo": 1.61
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.49,
+      "red": 1.65,
+      "multi": 53.98,
+      "ace": 47.98,
+      "whole": 13.15,
+      "combo": 1.6
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.76,
+      "red": 1.55,
+      "multi": 54.73,
+      "ace": 48.65,
+      "whole": 13.34,
+      "combo": 1.58
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.71,
+      "red": 2.36,
+      "multi": 55.54,
+      "ace": 49.37,
+      "whole": 13.53,
+      "combo": 1.57
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.55,
+      "red": 1.62,
+      "multi": 56.4,
+      "ace": 50.14,
+      "whole": 13.74,
+      "combo": 1.56
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 2.04,
+      "blue": 1.93,
+      "multi": 64.68,
+      "ace": 43.46,
+      "whole": 8.91,
+      "combo": 1.81
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.29,
+      "blue": 1.75,
+      "multi": 65.33,
+      "ace": 43.89,
+      "whole": 9,
+      "combo": 1.8
+    },
+    [
+      "blue",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 3.05,
+      "blue": 1.47,
+      "multi": 66.04,
+      "ace": 44.37,
+      "whole": 8.96,
+      "combo": 1.79
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.69,
+      "blue": 1.57,
+      "multi": 66.88,
+      "ace": 44.93,
+      "whole": 9.07,
+      "combo": 1.77
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.77,
+      "blue": 1.54,
+      "multi": 67.59,
+      "ace": 45.41,
+      "whole": 9.17,
+      "combo": 1.77
+    },
+    [
+      "ace",
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.82,
+      "blue": 1.53,
+      "multi": 68.27,
+      "ace": 42.55,
+      "whole": 9.26,
+      "combo": 1.76
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.95,
+      "blue": 2.01,
+      "multi": 69.01,
+      "ace": 43,
+      "whole": 9.36,
+      "combo": 1.74
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.63,
+      "blue": 2.54,
+      "multi": 69.84,
+      "ace": 43.52,
+      "whole": 9.47,
+      "combo": 1.73
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.02,
+      "blue": 1.95,
+      "multi": 70.47,
+      "ace": 43.91,
+      "whole": 9.56,
+      "combo": 1.72
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.31,
+      "blue": 1.74,
+      "multi": 71.35,
+      "ace": 44.46,
+      "whole": 9.68,
+      "combo": 1.7
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.99,
+      "red": 1.98,
+      "multi": 72.2,
+      "ace": 44.99,
+      "whole": 9.79,
+      "combo": 1.69
+    },
+    [
+      "whole",
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.99,
+      "red": 1.97,
+      "multi": 72.84,
+      "ace": 45.39,
+      "whole": 9.73,
+      "combo": 1.69
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.11,
+      "red": 1.86,
+      "multi": 73.42,
+      "ace": 45.75,
+      "whole": 9.81,
+      "combo": 1.68
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.45,
+      "red": 1.66,
+      "multi": 74.05,
+      "ace": 46.14,
+      "whole": 9.89,
+      "combo": 1.67
+    },
+    [
+      "whole",
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 2.03,
+      "red": 1.94,
+      "multi": 74.61,
+      "ace": 46.49,
+      "whole": 9.81,
+      "combo": 1.67
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.5,
+      "red": 2.92,
+      "multi": 75.34,
+      "ace": 46.93,
+      "whole": 9.91,
+      "combo": 1.66
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.64,
+      "blue": 1.59,
+      "multi": 52.36,
+      "ace": 57.73,
+      "whole": 15.86,
+      "combo": 1.6
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.61,
+      "blue": 2.59,
+      "multi": 53.11,
+      "ace": 58.56,
+      "whole": 16.08,
+      "combo": 1.59
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 3.59,
+      "blue": 1.37,
+      "multi": 53.84,
+      "ace": 59.37,
+      "whole": 16.31,
+      "combo": 1.58
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 3.02,
+      "blue": 1.53,
+      "multi": 54.93,
+      "ace": 60.56,
+      "whole": 16.63,
+      "combo": 1.56
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.38,
+      "blue": 1.7,
+      "multi": 55.98,
+      "ace": 61.72,
+      "whole": 16.95,
+      "combo": 1.55
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 2.43,
+      "blue": 1.67,
+      "multi": 56.49,
+      "ace": 62.28,
+      "whole": 17.1,
+      "combo": 1.54
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.63,
+      "blue": 2.54,
+      "multi": 57.04,
+      "ace": 62.89,
+      "whole": 17.27,
+      "combo": 1.53
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 1.44,
+      "blue": 3.2,
+      "multi": 57.62,
+      "ace": 63.53,
+      "whole": 17.45,
+      "combo": 1.52
+    },
+    [
+      "red"
+    ]
+  ],
+  [
+    {
+      "red": 1.89,
+      "blue": 2.09,
+      "multi": 58.28,
+      "ace": 64.25,
+      "whole": 17.65,
+      "combo": 1.52
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "red": 3.59,
+      "blue": 1.37,
+      "multi": 58.86,
+      "ace": 64.9,
+      "whole": 17.82,
+      "combo": 1.51
+    },
+    [
+      "whole",
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.85,
+      "red": 2.14,
+      "multi": 59.48,
+      "ace": 65.54,
+      "whole": 17.4,
+      "combo": 1.5
+    },
+    [
+      "whole",
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 2.01,
+      "red": 1.96,
+      "multi": 60.09,
+      "ace": 66.2,
+      "whole": 16.99,
+      "combo": 1.5
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.51,
+      "red": 2.89,
+      "multi": 60.55,
+      "ace": 66.71,
+      "whole": 17.12,
+      "combo": 1.49
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 1.65,
+      "red": 2.49,
+      "multi": 60.84,
+      "ace": 67.03,
+      "whole": 17.2,
+      "combo": 1.49
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "blue": 1.61,
+      "red": 2.59,
+      "multi": 61.12,
+      "ace": 67.34,
+      "whole": 17.28,
+      "combo": 1.49
+    },
+    [
+      "whole",
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.77,
+      "red": 1.54,
+      "multi": 61.27,
+      "ace": 67.51,
+      "whole": 16.77,
+      "combo": 1.49
+    },
+    [
+      "red",
+      "whole",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 2.63,
+      "red": 1.59,
+      "multi": 61.54,
+      "ace": 67.8,
+      "whole": 16.31,
+      "combo": 1.5
+    },
+    [
+      "whole",
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.82,
+      "red": 1.53,
+      "multi": 62.01,
+      "ace": 68.33,
+      "whole": 15.93,
+      "combo": 1.49
+    },
+    [
+      "multi",
+      "red"
+    ]
+  ],
+  [
+    {
+      "blue": 2.98,
+      "red": 1.49,
+      "multi": 55.69,
+      "ace": 68.49,
+      "whole": 15.96,
+      "combo": 1.5
+    },
+    [
+      "red",
+      "combo"
+    ]
+  ],
+  [
+    {
+      "blue": 3,
+      "red": 1.48,
+      "multi": 56.19,
+      "ace": 69.12,
+      "whole": 16.11,
+      "combo": 1.49
+    },
+    [
+      "blue"
+    ]
+  ],
+  [
+    {
+      "red": 2.29,
+      "blue": 1.74,
+      "multi": 34.29,
+      "ace": 61.67,
+      "whole": 12.3,
+      "combo": 1.46
+    },
+    [
+      "blue",
+      "combo"
+    ]
+  ]
+]

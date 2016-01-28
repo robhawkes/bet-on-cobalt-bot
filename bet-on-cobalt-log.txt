@@ -1,0 +1,3860 @@
+$ node index.js
+Round 4 resolved! Winning bets: red, combo
+Round 5 is about to begin! Place your bets! Odds: Red:1.83 Blue:2.16 Multi:25.52 Ace:44.27 Whole:11.06 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting red 10%
+Volts: 760
+Round 5 resolved! Winning bets: blue, combo
+Round 6 is about to begin! Place your bets! Odds: Red:2.07 Blue:1.90 Multi:25.82 Ace:44.80 Whole:11.19 Combo:1.55
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 6 resolved! Winning bets: blue
+Round 7 is about to begin! Place your bets! Odds: Red:2.22 Blue:1.79 Multi:26.17 Ace:45.40 Whole:11.34 Combo:1.54
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 7 resolved! Winning bets: red
+Round 8 is about to begin! Place your bets! Odds: Red:1.87 Blue:2.10 Multi:26.54 Ace:46.04 Whole:11.50 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 8 resolved! Winning bets: blue, combo
+Round 9 is about to begin! Place your bets! Odds: Red:2.11 Blue:1.87 Multi:26.72 Ace:46.45 Whole:11.60 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting blue 10%
+Volts: 494
+Round 9 resolved! Winning bets: blue
+Round 10 is about to begin! Place your bets! Odds: Red:2.17 Blue:1.82 Multi:27.00 Ace:46.94 Whole:11.72 Combo:1.51
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 10 resolved! Winning bets: red, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:2.09 Red:1.89 Multi:27.19 Ace:47.28 Whole:11.81 Combo:1.51
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 11 resolved! Winning bets: red
+Round 12 is about to begin! Place your bets! Odds: Blue:3.03 Red:1.47 Multi:27.40 Ace:47.63 Whole:11.89 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 12 resolved! Winning bets: red, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:2.34 Red:1.72 Multi:27.58 Ace:47.94 Whole:11.97 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Volts: 515
+Round 13 resolved! Winning bets: whole, red
+Round 14 is about to begin! Place your bets! Odds: Blue:2.63 Red:1.59 Multi:27.63 Ace:48.04 Whole:11.86 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 14 resolved! Winning bets: red, combo
+Round 15 is about to begin! Place your bets! Odds: Blue:2.69 Red:1.57 Multi:27.83 Ace:48.38 Whole:11.94 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 15 resolved! Winning bets: red, combo
+Round 16 is about to begin! Place your bets! Odds: Blue:2.83 Red:1.53 Multi:27.95 Ace:48.58 Whole:11.99 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 16 resolved! Winning bets: multi, red
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:1.92 Blue:2.05 Multi:24.21 Ace:43.11 Whole:10.64 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting red 10%
+Volts: 918
+Round 1 resolved! Winning bets: blue, combo
+Round 2 is about to begin! Place your bets! Odds: Red:2.19 Blue:1.81 Multi:24.43 Ace:43.50 Whole:10.73 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 2 resolved! Winning bets: blue
+Round 3 is about to begin! Place your bets! Odds: Red:2.24 Blue:1.78 Multi:24.65 Ace:43.89 Whole:10.82 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 3 resolved! Winning bets: blue, combo
+Round 4 is about to begin! Place your bets! Odds: Red:2.35 Blue:1.71 Multi:24.85 Ace:44.25 Whole:10.91 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 4 resolved! Winning bets: blue, combo
+Round 5 is about to begin! Place your bets! Odds: Red:2.44 Blue:1.67 Multi:25.05 Ace:44.61 Whole:11.00 Combo:1.57
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Requesting volts...
+Volts: 803
+Round 5 resolved! Winning bets: red
+Round 6 is about to begin! Place your bets! Odds: Red:2.13 Blue:1.85 Multi:25.29 Ace:45.04 Whole:11.11 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 6 resolved! Winning bets: ace, blue, combo
+Round 7 is about to begin! Place your bets! Odds: Red:2.51 Blue:1.63 Multi:25.55 Ace:43.58 Whole:11.20 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 7 resolved! Winning bets: blue, combo
+Round 8 is about to begin! Place your bets! Odds: Red:2.62 Blue:1.59 Multi:25.82 Ace:44.04 Whole:11.30 Combo:1.55
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 8 resolved! Winning bets: red, combo
+Round 9 is about to begin! Place your bets! Odds: Red:2.28 Blue:1.75 Multi:26.18 Ace:44.66 Whole:11.43 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting blue 10%
+Volts: 1489
+Round 9 resolved! Winning bets: red, whole, combo
+Round 10 is about to begin! Place your bets! Odds: Red:2.18 Blue:1.82 Multi:26.57 Ace:45.33 Whole:11.46 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 10 resolved! Winning bets: whole, red
+Round 11 is about to begin! Place your bets! Odds: Blue:1.75 Red:2.28 Multi:26.86 Ace:45.83 Whole:11.46 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 11 resolved! Winning bets: blue, combo
+Round 12 is about to begin! Place your bets! Odds: Blue:1.49 Red:2.94 Multi:27.06 Ace:46.25 Whole:11.57 Combo:1.51
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 12 resolved! Winning bets: red, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:2.39 Red:1.69 Multi:27.33 Ace:46.71 Whole:11.68 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting red 10%
+Volts: 1459
+Round 13 resolved! Winning bets: red
+Round 14 is about to begin! Place your bets! Odds: Blue:1.93 Red:2.04 Multi:27.62 Ace:47.20 Whole:11.81 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 14 resolved! Winning bets: blue, combo
+Round 15 is about to begin! Place your bets! Odds: Blue:1.51 Red:2.87 Multi:27.87 Ace:47.63 Whole:11.91 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 15 resolved! Winning bets: blue, combo
+Round 16 is about to begin! Place your bets! Odds: Blue:1.57 Red:2.69 Multi:28.03 Ace:47.91 Whole:11.98 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 16 resolved! Winning bets: red, combo
+Round 17 is about to begin! Place your bets! Odds: Blue:2.38 Red:1.70 Multi:28.23 Ace:48.24 Whole:12.04 Combo:1.48
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Volts: 1481
+Round 17 resolved! Winning bets: blue, combo
+Round 18 is about to begin! Place your bets! Odds: Blue:1.48 Red:3.01 Multi:28.38 Ace:48.51 Whole:12.09 Combo:1.48
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 18 resolved! Winning bets: blue, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.17 Blue:1.83 Multi:68.24 Ace:40.52 Whole:8.59 Combo:1.78
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 1 resolved! Winning bets: red
+Round 2 is about to begin! Place your bets! Odds: Red:2.01 Blue:1.95 Multi:68.97 Ace:41.03 Whole:8.70 Combo:1.77
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 2 resolved! Winning bets: red
+Round 3 is about to begin! Place your bets! Odds: Red:1.65 Blue:2.48 Multi:69.74 Ace:41.49 Whole:8.79 Combo:1.76
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Volts: 1030
+Round 3 resolved! Winning bets: red, combo
+Round 4 is about to begin! Place your bets! Odds: Red:2.16 Blue:1.84 Multi:70.45 Ace:41.92 Whole:8.88 Combo:1.75
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 4 resolved! Winning bets: blue
+Round 5 is about to begin! Place your bets! Odds: Red:2.23 Blue:1.78 Multi:71.23 Ace:42.39 Whole:8.98 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 5 resolved! Winning bets: red, whole, combo
+Round 6 is about to begin! Place your bets! Odds: Red:1.96 Blue:2.01 Multi:72.06 Ace:42.88 Whole:8.94 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 6 resolved! Winning bets: red
+Round 7 is about to begin! Place your bets! Odds: Red:1.60 Blue:2.61 Multi:72.82 Ace:43.33 Whole:9.03 Combo:1.72
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Volts: 1373
+Round 7 resolved! Winning bets: red
+Round 8 is about to begin! Place your bets! Odds: Red:2.20 Blue:1.81 Multi:73.54 Ace:43.76 Whole:9.12 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 8 resolved! Winning bets: red
+Round 9 is about to begin! Place your bets! Odds: Red:2.07 Blue:1.90 Multi:74.17 Ace:44.15 Whole:9.20 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 9 resolved! Winning bets: red, combo
+Round 10 is about to begin! Place your bets! Odds: Red:1.99 Blue:1.97 Multi:74.87 Ace:44.57 Whole:9.29 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 10 resolved! Winning bets: red, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:2.09 Red:1.89 Multi:75.70 Ace:45.06 Whole:9.39 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 863
+Round 11 resolved! Winning bets: blue
+Round 12 is about to begin! Place your bets! Odds: Blue:2.13 Red:1.85 Multi:76.63 Ace:45.63 Whole:9.51 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+^C
+
+ 21:48:35  ✘  ...Archive/B/bet-on-colbalt-bot   master ✘ ✹ 
+$ node index.js
+Round 12 resolved! Winning bets: blue, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:1.64 Red:2.52 Multi:77.43 Ace:46.11 Whole:9.61 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Volts: 699
+Round 13 resolved! Winning bets: blue, combo
+Round 14 is about to begin! Place your bets! Odds: Blue:1.58 Red:2.66 Multi:78.28 Ace:46.61 Whole:9.72 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 14 resolved! Winning bets: red, combo
+Round 15 is about to begin! Place your bets! Odds: Blue:2.15 Red:1.84 Multi:79.23 Ace:47.18 Whole:9.84 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 15 resolved! Winning bets: blue
+Round 16 is about to begin! Place your bets! Odds: Blue:2.05 Red:1.92 Multi:80.26 Ace:47.79 Whole:9.96 Combo:1.62
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+^[[F^[[3~Round 16 resolved! Winning bets: red
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.33 Blue:1.72 Multi:33.87 Ace:60.92 Whole:12.24 Combo:1.46
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 675
+Round 1 resolved! Winning bets: red, whole, combo
+Round 2 is about to begin! Place your bets! Odds: Red:1.72 Blue:2.33 Multi:34.21 Ace:61.52 Whole:12.26 Combo:1.45
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 2 resolved! Winning bets: blue, combo
+Round 3 is about to begin! Place your bets! Odds: Red:2.72 Blue:1.56 Multi:34.56 Ace:62.14 Whole:12.39 Combo:1.45
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 3 resolved! Winning bets: red, combo
+Round 4 is about to begin! Place your bets! Odds: Red:1.74 Blue:2.30 Multi:34.87 Ace:62.70 Whole:12.50 Combo:1.44
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 4 resolved! Winning bets: blue, combo
+Round 5 is about to begin! Place your bets! Odds: Red:2.80 Blue:1.53 Multi:35.14 Ace:63.19 Whole:12.60 Combo:1.44
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 1292
+Round 5 resolved! Winning bets: red
+Round 6 is about to begin! Place your bets! Odds: Red:1.74 Blue:2.30 Multi:35.47 Ace:63.79 Whole:12.72 Combo:1.43
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 6 resolved! Winning bets: blue, combo
+Round 7 is about to begin! Place your bets! Odds: Red:2.66 Blue:1.58 Multi:35.81 Ace:64.39 Whole:12.84 Combo:1.43
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 7 resolved! Winning bets: red, combo
+Round 8 is about to begin! Place your bets! Odds: Red:1.70 Blue:2.36 Multi:36.09 Ace:64.90 Whole:12.94 Combo:1.42
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 8 resolved! Winning bets: blue, combo
+Round 9 is about to begin! Place your bets! Odds: Red:2.61 Blue:1.60 Multi:36.33 Ace:65.45 Whole:13.05 Combo:1.42
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting red 10%
+Volts: 2120
+Round 9 resolved! Winning bets: blue, combo
+Round 10 is about to begin! Place your bets! Odds: Red:2.79 Blue:1.54 Multi:36.66 Ace:66.04 Whole:13.17 Combo:1.41
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 10 resolved! Winning bets: red, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:1.96 Red:2.00 Multi:36.98 Ace:66.62 Whole:13.28 Combo:1.40
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 11 resolved! Winning bets: red
+Round 12 is about to begin! Place your bets! Odds: Blue:2.79 Red:1.53 Multi:37.33 Ace:67.28 Whole:13.41 Combo:1.40
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 12 resolved! Winning bets: red
+Round 13 is about to begin! Place your bets! Odds: Blue:2.75 Red:1.55 Multi:37.66 Ace:67.87 Whole:13.53 Combo:1.40
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Volts: 1862
+Betting blue 10%
+Round 13 resolved! Winning bets: red
+Round 14 is about to begin! Place your bets! Odds: Blue:2.34 Red:1.72 Multi:37.96 Ace:68.39 Whole:13.64 Combo:1.39
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 14 resolved! Winning bets: blue, combo
+Round 15 is about to begin! Place your bets! Odds: Blue:1.66 Red:2.45 Multi:38.34 Ace:69.07 Whole:13.78 Combo:1.39
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 15 resolved! Winning bets: red, combo
+Round 16 is about to begin! Place your bets! Odds: Blue:2.87 Red:1.51 Multi:38.65 Ace:69.62 Whole:13.89 Combo:1.38
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 16 resolved! Winning bets: red, combo
+Round 17 is about to begin! Place your bets! Odds: Blue:2.96 Red:1.49 Multi:39.04 Ace:70.30 Whole:14.03 Combo:1.38
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Requesting volts...
+Volts: 1492
+Round 17 resolved! Winning bets: blue
+Round 18 is about to begin! Place your bets! Odds: Blue:1.77 Red:2.25 Multi:39.55 Ace:71.23 Whole:14.21 Combo:1.37
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 18 resolved! Winning bets: red, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.30 Blue:1.74 Multi:60.48 Ace:46.21 Whole:11.52 Combo:1.82
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 1 resolved! Winning bets: red, whole, combo
+Round 2 is about to begin! Place your bets! Odds: Red:1.66 Blue:2.45 Multi:60.97 Ace:46.60 Whole:11.46 Combo:1.81
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 2 resolved! Winning bets: whole, blue
+Round 3 is about to begin! Place your bets! Odds: Red:2.71 Blue:1.56 Multi:61.35 Ace:46.90 Whole:11.37 Combo:1.81
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Volts: 3312
+Round 3 resolved! Winning bets: blue, combo
+Round 4 is about to begin! Place your bets! Odds: Red:2.41 Blue:1.68 Multi:61.73 Ace:47.19 Whole:11.44 Combo:1.80
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 4 resolved! Winning bets: blue
+Round 5 is about to begin! Place your bets! Odds: Red:2.03 Blue:1.94 Multi:62.23 Ace:47.59 Whole:11.54 Combo:1.79
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 5 resolved! Winning bets: blue, combo
+Round 6 is about to begin! Place your bets! Odds: Red:2.08 Blue:1.89 Multi:62.67 Ace:47.93 Whole:11.62 Combo:1.78
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 6 resolved! Winning bets: blue, combo
+Round 7 is about to begin! Place your bets! Odds: Red:2.14 Blue:1.85 Multi:63.36 Ace:48.45 Whole:11.75 Combo:1.76
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 2022
+Round 7 resolved! Winning bets: multi, blue
+Round 8 is about to begin! Place your bets! Odds: Red:2.17 Blue:1.82 Multi:59.66 Ace:48.97 Whole:11.88 Combo:1.75
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 8 resolved! Winning bets: red
+Round 9 is about to begin! Place your bets! Odds: Red:1.70 Blue:2.38 Multi:60.10 Ace:49.34 Whole:11.97 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 9 resolved! Winning bets: red
+Round 10 is about to begin! Place your bets! Odds: Red:1.91 Blue:2.06 Multi:60.51 Ace:49.68 Whole:12.05 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 10 resolved! Winning bets: blue, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:2.31 Red:1.74 Multi:60.92 Ace:50.02 Whole:12.13 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Volts: 2980
+Round 11 resolved! Winning bets: blue, combo
+Round 12 is about to begin! Place your bets! Odds: Blue:2.04 Red:1.92 Multi:61.45 Ace:50.45 Whole:12.24 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 12 resolved! Winning bets: blue
+Round 13 is about to begin! Place your bets! Odds: Blue:1.41 Red:3.33 Multi:61.97 Ace:50.88 Whole:12.34 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 13 resolved! Winning bets: blue, combo
+Round 14 is about to begin! Place your bets! Odds: Blue:1.71 Red:2.36 Multi:62.41 Ace:51.24 Whole:12.43 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 14 resolved! Winning bets: red
+Round 15 is about to begin! Place your bets! Odds: Blue:2.23 Red:1.78 Multi:62.95 Ace:51.68 Whole:12.53 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting blue 10%
+Volts: 3298
+Round 15 resolved! Winning bets: whole, blue
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:1.65 Blue:2.48 Multi:49.71 Ace:43.62 Whole:11.75 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 1 resolved! Winning bets: red, combo
+Round 2 is about to begin! Place your bets! Odds: Red:1.91 Blue:2.05 Multi:50.06 Ace:43.93 Whole:11.83 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 2 resolved! Winning bets: red, combo
+Round 3 is about to begin! Place your bets! Odds: Red:1.98 Blue:1.98 Multi:50.42 Ace:44.25 Whole:11.91 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 3 resolved! Winning bets: red, combo
+Round 4 is about to begin! Place your bets! Odds: Red:1.75 Blue:2.29 Multi:50.89 Ace:44.66 Whole:12.02 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Volts: 2999
+Betting blue 10%
+Round 4 resolved! Winning bets: blue, combo
+Round 5 is about to begin! Place your bets! Odds: Red:3.18 Blue:1.44 Multi:51.49 Ace:45.18 Whole:12.16 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 5 resolved! Winning bets: red, combo
+Round 6 is about to begin! Place your bets! Odds: Red:1.79 Blue:2.23 Multi:51.95 Ace:45.59 Whole:12.27 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 6 resolved! Winning bets: red, whole, combo
+Round 7 is about to begin! Place your bets! Odds: Red:1.81 Blue:2.19 Multi:52.60 Ace:46.16 Whole:12.09 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 7 resolved! Winning bets: blue, combo
+Round 8 is about to begin! Place your bets! Odds: Red:2.96 Blue:1.49 Multi:53.14 Ace:46.63 Whole:12.22 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting red 10%
+Volts: 4818
+Round 8 resolved! Winning bets: red, combo
+Round 9 is about to begin! Place your bets! Odds: Red:1.76 Blue:2.27 Multi:53.96 Ace:47.36 Whole:12.40 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 9 resolved! Winning bets: blue
+Round 10 is about to begin! Place your bets! Odds: Red:2.92 Blue:1.50 Multi:54.62 Ace:47.93 Whole:12.55 Combo:1.64
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 10 resolved! Winning bets: multi, red, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:1.78 Red:2.24 Multi:49.43 Ace:48.42 Whole:12.68 Combo:1.64
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 11 resolved! Winning bets: red, combo
+Round 12 is about to begin! Place your bets! Odds: Blue:2.84 Red:1.52 Multi:49.88 Ace:48.86 Whole:12.80 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Volts: 11595
+Round 12 resolved! Winning bets: blue, whole, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:1.78 Red:2.23 Multi:50.44 Ace:49.41 Whole:12.60 Combo:1.62
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 13 resolved! Winning bets: red, combo
+Round 14 is about to begin! Place your bets! Odds: Blue:2.69 Red:1.57 Multi:50.95 Ace:49.91 Whole:12.73 Combo:1.61
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 14 resolved! Winning bets: blue, combo
+Round 15 is about to begin! Place your bets! Odds: Blue:1.83 Red:2.16 Multi:51.60 Ace:50.54 Whole:12.89 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 15 resolved! Winning bets: blue
+Round 16 is about to begin! Place your bets! Odds: Blue:2.01 Red:1.96 Multi:52.07 Ace:51.01 Whole:13.01 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Requesting volts...
+Volts: 13594
+Round 16 resolved! Winning bets: blue
+Round 17 is about to begin! Place your bets! Odds: Blue:1.76 Red:2.27 Multi:52.49 Ace:51.42 Whole:13.12 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 17 resolved! Winning bets: red
+Round 18 is about to begin! Place your bets! Odds: Blue:2.45 Red:1.66 Multi:52.99 Ace:51.91 Whole:13.23 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 18 resolved! Winning bets: red, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.10 Blue:1.88 Multi:70.45 Ace:41.83 Whole:8.72 Combo:1.80
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 1 resolved! Winning bets: red
+Round 2 is about to begin! Place your bets! Odds: Red:1.95 Blue:2.02 Multi:71.16 Ace:42.25 Whole:8.81 Combo:1.79
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Volts: 15805
+Betting combo 5%
+Betting blue 10%
+Round 2 resolved! Winning bets: red
+Round 3 is about to begin! Place your bets! Odds: Red:1.59 Blue:2.64 Multi:71.72 Ace:42.58 Whole:8.88 Combo:1.78
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 3 resolved! Winning bets: multi, blue
+Round 4 is about to begin! Place your bets! Odds: Red:2.21 Blue:1.80 Multi:63.80 Ace:42.87 Whole:8.94 Combo:1.78
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 4 resolved! Winning bets: blue, combo
+Round 5 is about to begin! Place your bets! Odds: Red:2.98 Blue:1.49 Multi:64.20 Ace:43.13 Whole:8.99 Combo:1.77
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 5 resolved! Winning bets: blue, combo
+Round 6 is about to begin! Place your bets! Odds: Red:2.75 Blue:1.55 Multi:64.86 Ace:43.58 Whole:9.08 Combo:1.76
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Requesting volts...
+Volts: 16675
+Round 6 resolved! Winning bets: blue, combo
+Round 7 is about to begin! Place your bets! Odds: Red:2.87 Blue:1.51 Multi:65.68 Ace:44.13 Whole:9.20 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 7 resolved! Winning bets: blue, combo
+Round 8 is about to begin! Place your bets! Odds: Red:2.98 Blue:1.48 Multi:66.37 Ace:44.59 Whole:9.30 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 8 resolved! Winning bets: red
+Round 9 is about to begin! Place your bets! Odds: Red:2.04 Blue:1.93 Multi:67.03 Ace:45.04 Whole:9.39 Combo:1.72
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 9 resolved! Winning bets: blue, combo
+Round 10 is about to begin! Place your bets! Odds: Red:2.41 Blue:1.68 Multi:67.78 Ace:45.54 Whole:9.49 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Requesting volts...
+Volts: 14068
+Round 10 resolved! Winning bets: blue, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:1.83 Red:2.16 Multi:68.52 Ace:46.04 Whole:9.60 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 11 resolved! Winning bets: whole, red
+Round 12 is about to begin! Place your bets! Odds: Blue:1.94 Red:2.03 Multi:69.11 Ace:46.43 Whole:9.52 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 12 resolved! Winning bets: red, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:2.38 Red:1.70 Multi:69.67 Ace:46.81 Whole:9.60 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 13 resolved! Winning bets: blue
+Round 14 is about to begin! Place your bets! Odds: Blue:2.01 Red:1.95 Multi:70.38 Ace:47.29 Whole:9.70 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting blue 10%
+Volts: 18481
+Round 14 resolved! Winning bets: blue, combo
+Round 15 is about to begin! Place your bets! Odds: Blue:1.55 Red:2.76 Multi:70.82 Ace:47.58 Whole:9.76 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 15 resolved! Winning bets: blue
+Round 16 is about to begin! Place your bets! Odds: Blue:1.58 Red:2.65 Multi:71.24 Ace:47.87 Whole:9.82 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 16 resolved! Winning bets: red, combo
+Round 17 is about to begin! Place your bets! Odds: Blue:2.05 Red:1.92 Multi:71.69 Ace:48.16 Whole:9.88 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 17 resolved! Winning bets: red
+Round 18 is about to begin! Place your bets! Odds: Blue:2.37 Red:1.71 Multi:72.15 Ace:48.47 Whole:9.94 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Volts: 17136
+Round 18 resolved! Winning bets: red
+Round 19 is about to begin! Place your bets! Odds: Blue:2.60 Red:1.60 Multi:72.57 Ace:48.76 Whole:10.00 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 19 resolved! Winning bets: red
+Round 20 is about to begin! Place your bets! Odds: Blue:2.73 Red:1.56 Multi:72.91 Ace:48.99 Whole:10.05 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 20 resolved! Winning bets: red, combo
+Round 21 is about to begin! Place your bets! Odds: Blue:2.79 Red:1.54 Multi:73.31 Ace:49.26 Whole:10.10 Combo:1.64
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 21 resolved! Winning bets: blue
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Green:2.33 Purple:1.72 Multi:58.43 Ace:95.99 Whole:10.18 Combo:1.77
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting green 10%
+Volts: 11635
+Round 1 resolved! Winning bets: purple, combo
+Round 2 is about to begin! Place your bets! Odds: Green:2.32 Purple:1.73 Multi:58.62 Ace:96.29 Whole:10.21 Combo:1.77
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 2 resolved! Winning bets: purple, combo
+Round 3 is about to begin! Place your bets! Odds: Green:2.19 Purple:1.81 Multi:58.87 Ace:96.67 Whole:10.26 Combo:1.76
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 3 resolved! Winning bets: purple
+Round 4 is about to begin! Place your bets! Odds: Green:2.45 Purple:1.66 Multi:59.34 Ace:97.42 Whole:10.34 Combo:1.75
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 4 resolved! Winning bets: green, combo
+Round 5 is about to begin! Place your bets! Odds: Green:1.86 Purple:2.12 Multi:59.55 Ace:97.74 Whole:10.38 Combo:1.75
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting purple 10%
+Volts: 8790
+Round 5 resolved! Winning bets: green, combo
+Round 6 is about to begin! Place your bets! Odds: Green:1.86 Purple:2.12 Multi:59.81 Ace:98.14 Whole:10.42 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 6 resolved! Winning bets: green
+Round 7 is about to begin! Place your bets! Odds: Green:2.30 Purple:1.74 Multi:60.06 Ace:98.53 Whole:10.46 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 7 resolved! Winning bets: purple, combo
+Round 8 is about to begin! Place your bets! Odds: Green:2.36 Purple:1.70 Multi:60.32 Ace:98.95 Whole:10.51 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 8 resolved! Winning bets: green, combo
+Round 9 is about to begin! Place your bets! Odds: Green:1.84 Purple:2.14 Multi:60.65 Ace:99.31 Whole:10.57 Combo:1.72
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Volts: 7340
+Round 9 resolved! Winning bets: green, combo
+Round 10 is about to begin! Place your bets! Odds: Green:1.80 Purple:2.21 Multi:60.88 Ace:99.67 Whole:10.61 Combo:1.72
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 10 resolved! Winning bets: green, combo
+Round 11 is about to begin! Place your bets! Odds: Purple:2.13 Green:1.85 Multi:61.22 Ace:100.22 Whole:10.67 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 11 resolved! Winning bets: purple, combo
+Round 12 is about to begin! Place your bets! Odds: Purple:1.85 Green:2.13 Multi:61.70 Ace:101.01 Whole:10.75 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 12 resolved! Winning bets: purple, combo
+Round 13 is about to begin! Place your bets! Odds: Purple:1.65 Green:2.47 Multi:61.98 Ace:101.46 Whole:10.80 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Volts: 6234
+Round 13 resolved! Winning bets: green, combo
+Round 14 is about to begin! Place your bets! Odds: Purple:2.55 Green:1.62 Multi:62.40 Ace:102.13 Whole:10.87 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 14 resolved! Winning bets: green
+Round 15 is about to begin! Place your bets! Odds: Purple:1.89 Green:2.09 Multi:62.72 Ace:102.64 Whole:10.93 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 15 resolved! Winning bets: purple
+Round 16 is about to begin! Place your bets! Odds: Purple:1.76 Green:2.26 Multi:63.19 Ace:103.41 Whole:11.01 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 16 resolved! Winning bets: green, combo
+Round 17 is about to begin! Place your bets! Odds: Purple:2.48 Green:1.65 Multi:63.49 Ace:103.90 Whole:11.04 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Requesting volts...
+Volts: 4748
+Round 17 resolved! Winning bets: green
+Round 18 is about to begin! Place your bets! Odds: Purple:1.82 Green:2.17 Multi:63.75 Ace:104.32 Whole:11.09 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 18 resolved! Winning bets: purple, combo
+Round 19 is about to begin! Place your bets! Odds: Purple:1.76 Green:2.27 Multi:63.94 Ace:104.62 Whole:11.12 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 19 resolved! Winning bets: purple
+Round 20 is about to begin! Place your bets! Odds: Purple:1.60 Green:2.60 Multi:64.16 Ace:104.97 Whole:11.16 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 20 resolved! Winning bets: purple
+Round 21 is about to begin! Place your bets! Odds: Purple:1.76 Green:2.27 Multi:64.56 Ace:105.38 Whole:11.23 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Requesting volts...
+Volts: 2462
+Round 21 resolved! Winning bets: purple, whole, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.88 Blue:1.51 Multi:51.69 Ace:67.74 Whole:16.10 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 1 resolved! Winning bets: red, combo
+Round 2 is about to begin! Place your bets! Odds: Red:1.60 Blue:2.61 Multi:52.06 Ace:68.21 Whole:16.21 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 2 resolved! Winning bets: red
+Round 3 is about to begin! Place your bets! Odds: Red:1.44 Blue:3.21 Multi:52.41 Ace:68.67 Whole:16.32 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 3 resolved! Winning bets: red, combo
+Round 4 is about to begin! Place your bets! Odds: Red:1.87 Blue:2.11 Multi:52.71 Ace:69.07 Whole:16.42 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Requesting volts...
+Volts: 2290
+Round 4 resolved! Winning bets: blue, combo
+Round 5 is about to begin! Place your bets! Odds: Red:3.54 Blue:1.38 Multi:53.29 Ace:69.66 Whole:16.60 Combo:1.57
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 5 resolved! Winning bets: blue, combo
+Round 6 is about to begin! Place your bets! Odds: Red:2.82 Blue:1.59 Multi:53.63 Ace:70.11 Whole:16.70 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 6 resolved! Winning bets: blue, combo
+Round 7 is about to begin! Place your bets! Odds: Red:2.04 Blue:1.93 Multi:54.02 Ace:70.62 Whole:16.83 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 7 resolved! Winning bets: blue, combo
+Round 8 is about to begin! Place your bets! Odds: Red:2.09 Blue:1.88 Multi:54.43 Ace:71.16 Whole:16.95 Combo:1.55
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting red 10%
+Volts: 2193
+Round 8 resolved! Winning bets: blue
+Round 9 is about to begin! Place your bets! Odds: Red:2.12 Blue:1.86 Multi:54.88 Ace:71.74 Whole:17.09 Combo:1.55
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 9 resolved! Winning bets: red, combo
+Round 10 is about to begin! Place your bets! Odds: Red:1.57 Blue:2.69 Multi:55.22 Ace:72.19 Whole:17.20 Combo:1.54
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 10 resolved! Winning bets: ace, red, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:1.93 Red:2.04 Multi:55.74 Ace:62.15 Whole:17.36 Combo:1.54
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 11 resolved! Winning bets: blue, combo
+Round 12 is about to begin! Place your bets! Odds: Blue:2.05 Red:1.92 Multi:56.13 Ace:62.59 Whole:17.48 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Volts: 3029
+Round 12 resolved! Winning bets: blue, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:1.60 Red:2.60 Multi:56.52 Ace:63.02 Whole:17.60 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 13 resolved! Winning bets: blue
+Round 14 is about to begin! Place your bets! Odds: Blue:1.82 Red:2.18 Multi:56.94 Ace:63.49 Whole:17.74 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 14 resolved! Winning bets: blue, combo
+Round 15 is about to begin! Place your bets! Odds: Blue:1.76 Red:2.28 Multi:57.33 Ace:63.92 Whole:17.86 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 15 resolved! Winning bets: blue
+Round 16 is about to begin! Place your bets! Odds: Blue:1.70 Red:2.38 Multi:57.72 Ace:64.37 Whole:17.98 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Requesting volts...
+Volts: 1751
+Round 16 resolved! Winning bets: blue, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.24 Blue:1.78 Multi:57.43 Ace:47.10 Whole:11.27 Combo:1.83
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 1 resolved! Winning bets: blue, combo
+Round 2 is about to begin! Place your bets! Odds: Red:2.78 Blue:1.54 Multi:57.65 Ace:47.28 Whole:11.31 Combo:1.82
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 2 resolved! Winning bets: blue, combo
+Round 3 is about to begin! Place your bets! Odds: Red:2.48 Blue:1.65 Multi:57.97 Ace:47.54 Whole:11.37 Combo:1.81
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 3 resolved! Winning bets: blue, whole, combo
+Round 4 is about to begin! Place your bets! Odds: Red:2.11 Blue:1.87 Multi:58.45 Ace:47.94 Whole:11.32 Combo:1.80
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Requesting volts...
+Volts: 1518
+Round 4 resolved! Winning bets: blue, combo
+Round 5 is about to begin! Place your bets! Odds: Red:2.15 Blue:1.84 Multi:58.77 Ace:48.20 Whole:11.38 Combo:1.80
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 5 resolved! Winning bets: blue, combo
+Round 6 is about to begin! Place your bets! Odds: Red:2.18 Blue:1.82 Multi:59.11 Ace:48.48 Whole:11.45 Combo:1.79
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 6 resolved! Winning bets: red, combo
+Round 7 is about to begin! Place your bets! Odds: Red:1.68 Blue:2.41 Multi:59.53 Ace:48.83 Whole:11.53 Combo:1.78
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 7 resolved! Winning bets: blue, combo
+Round 8 is about to begin! Place your bets! Odds: Red:2.83 Blue:1.52 Multi:60.02 Ace:49.23 Whole:11.62 Combo:1.77
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 1800
+Round 8 resolved! Winning bets: blue, combo
+Round 9 is about to begin! Place your bets! Odds: Red:2.55 Blue:1.62 Multi:60.70 Ace:49.79 Whole:11.75 Combo:1.75
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 9 resolved! Winning bets: red, combo
+Round 10 is about to begin! Place your bets! Odds: Red:1.72 Blue:2.34 Multi:61.26 Ace:50.25 Whole:11.86 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 10 resolved! Winning bets: red, whole, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:2.16 Red:1.83 Multi:61.86 Ace:50.74 Whole:11.82 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 11 resolved! Winning bets: blue, combo
+Round 12 is about to begin! Place your bets! Odds: Blue:1.95 Red:2.01 Multi:62.59 Ace:51.33 Whole:11.96 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 2191
+Round 12 resolved! Winning bets: red, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:2.19 Red:1.81 Multi:63.28 Ace:51.90 Whole:12.09 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 13 resolved! Winning bets: red, combo
+Round 14 is about to begin! Place your bets! Odds: Blue:3.25 Red:1.43 Multi:64.30 Ace:52.74 Whole:12.29 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 14 resolved! Winning bets: blue, combo
+Round 15 is about to begin! Place your bets! Odds: Blue:1.97 Red:2.00 Multi:65.57 Ace:53.78 Whole:12.53 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 15 resolved! Winning bets: blue, whole, combo
+Round 16 is about to begin! Place your bets! Odds: Blue:1.37 Red:3.60 Multi:67.13 Ace:55.06 Whole:12.66 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Requesting volts...
+Volts: 2486
+Round 16 resolved! Winning bets: blue, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.28 Blue:1.75 Multi:58.71 Ace:48.16 Whole:11.08 Combo:1.80
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 1 resolved! Winning bets: red, combo
+Round 2 is about to begin! Place your bets! Odds: Red:1.68 Blue:2.41 Multi:59.88 Ace:49.11 Whole:11.29 Combo:1.78
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 2 resolved! Winning bets: red, combo
+Round 3 is about to begin! Place your bets! Odds: Red:1.95 Blue:2.02 Multi:62.19 Ace:51.01 Whole:11.73 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 3 resolved! Winning bets: red
+Round 4 is about to begin! Place your bets! Odds: Red:1.72 Blue:2.34 Multi:65.18 Ace:53.46 Whole:12.30 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting blue 10%
+Volts: 2418
+Round 4 resolved! Winning bets: blue
+Round 5 is about to begin! Place your bets! Odds: Red:2.82 Blue:1.53 Multi:66.65 Ace:54.67 Whole:12.57 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 5 resolved! Winning bets: blue, combo
+Round 6 is about to begin! Place your bets! Odds: Red:2.46 Blue:1.66 Multi:67.78 Ace:55.60 Whole:12.79 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 6 resolved! Winning bets: red
+Round 7 is about to begin! Place your bets! Odds: Red:1.69 Blue:2.39 Multi:68.59 Ace:56.26 Whole:12.94 Combo:1.62
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 7 resolved! Winning bets: red
+Round 8 is about to begin! Place your bets! Odds: Red:1.94 Blue:2.02 Multi:69.41 Ace:56.93 Whole:13.09 Combo:1.61
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Requesting volts...
+Volts: 2139
+Round 8 resolved! Winning bets: blue
+Round 9 is about to begin! Place your bets! Odds: Red:2.91 Blue:1.50 Multi:70.21 Ace:57.59 Whole:13.24 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 9 resolved! Winning bets: red
+Round 10 is about to begin! Place your bets! Odds: Red:1.67 Blue:2.43 Multi:70.85 Ace:58.11 Whole:13.36 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 10 resolved! Winning bets: blue, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:2.15 Red:1.84 Multi:71.40 Ace:58.56 Whole:13.47 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 11 resolved! Winning bets: blue
+Round 12 is about to begin! Place your bets! Odds: Blue:1.99 Red:1.98 Multi:71.95 Ace:59.01 Whole:13.57 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Volts: 3280
+Round 12 resolved! Winning bets: red, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:2.25 Red:1.77 Multi:72.39 Ace:59.38 Whole:13.66 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 13 resolved! Winning bets: blue, whole, combo
+Round 14 is about to begin! Place your bets! Odds: Blue:2.02 Red:1.95 Multi:72.94 Ace:59.83 Whole:13.58 Combo:1.57
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 14 resolved! Winning bets: blue, combo
+Round 15 is about to begin! Place your bets! Odds: Blue:1.36 Red:3.64 Multi:73.34 Ace:60.16 Whole:13.66 Combo:1.57
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 15 resolved! Winning bets: blue, combo
+Round 16 is about to begin! Place your bets! Odds: Blue:1.71 Red:2.35 Multi:73.97 Ace:60.67 Whole:13.77 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 3440
+Round 16 resolved! Winning bets: blue, combo
+Round 17 is about to begin! Place your bets! Odds: Blue:1.66 Red:2.45 Multi:75.32 Ace:61.78 Whole:14.02 Combo:1.54
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 17 resolved! Winning bets: blue, combo
+Round 18 is about to begin! Place your bets! Odds: Blue:1.64 Red:2.51 Multi:76.20 Ace:62.50 Whole:14.18 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 18 resolved! Winning bets: red
+Round 19 is about to begin! Place your bets! Odds: Blue:2.13 Red:1.85 Multi:77.02 Ace:63.17 Whole:14.34 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 19 resolved! Winning bets: blue
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:1.95 Blue:2.01 Multi:24.70 Ace:42.13 Whole:10.62 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting blue 10%
+Volts: 3152
+Round 1 resolved! Winning bets: red, combo
+Round 2 is about to begin! Place your bets! Odds: Red:1.92 Blue:2.04 Multi:25.08 Ace:42.79 Whole:10.79 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 2 resolved! Winning bets: red, combo
+Round 3 is about to begin! Place your bets! Odds: Red:1.80 Blue:2.21 Multi:25.42 Ace:43.38 Whole:10.94 Combo:1.57
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 3 resolved! Winning bets: blue
+Round 4 is about to begin! Place your bets! Odds: Red:2.13 Blue:1.85 Multi:25.81 Ace:44.04 Whole:11.10 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 4 resolved! Winning bets: red, combo
+Round 5 is about to begin! Place your bets! Odds: Red:1.84 Blue:2.14 Multi:26.03 Ace:44.41 Whole:11.20 Combo:1.55
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Volts: 3147
+Round 5 resolved! Winning bets: red, combo
+Round 6 is about to begin! Place your bets! Odds: Red:1.78 Blue:2.24 Multi:26.33 Ace:44.93 Whole:11.33 Combo:1.54
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 6 resolved! Winning bets: red, combo
+Round 7 is about to begin! Place your bets! Odds: Red:1.71 Blue:2.36 Multi:26.64 Ace:45.46 Whole:11.46 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 7 resolved! Winning bets: red, combo
+Round 8 is about to begin! Place your bets! Odds: Red:1.67 Blue:2.44 Multi:27.02 Ace:46.10 Whole:11.62 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 8 resolved! Winning bets: blue, combo
+Round 9 is about to begin! Place your bets! Odds: Red:2.10 Blue:1.88 Multi:27.34 Ace:46.65 Whole:11.76 Combo:1.51
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 2560
+Round 9 resolved! Winning bets: blue
+Round 10 is about to begin! Place your bets! Odds: Red:2.17 Blue:1.82 Multi:27.69 Ace:47.25 Whole:11.91 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 10 resolved! Winning bets: blue, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:2.03 Red:1.94 Multi:28.09 Ace:47.93 Whole:12.08 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 11 resolved! Winning bets: red, combo
+Round 12 is about to begin! Place your bets! Odds: Blue:2.92 Red:1.50 Multi:28.35 Ace:48.38 Whole:12.20 Combo:1.48
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 12 resolved! Winning bets: red, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:2.26 Red:1.76 Multi:28.61 Ace:48.82 Whole:12.31 Combo:1.47
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting blue 10%
+Volts: 1585
+Round 13 resolved! Winning bets: red, combo
+Round 14 is about to begin! Place your bets! Odds: Blue:2.74 Red:1.55 Multi:28.87 Ace:49.26 Whole:12.42 Combo:1.47
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 14 resolved! Winning bets: red, combo
+Round 15 is about to begin! Place your bets! Odds: Blue:2.79 Red:1.54 Multi:29.18 Ace:49.78 Whole:12.55 Combo:1.46
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 15 resolved! Winning bets: blue, whole, combo
+Round 16 is about to begin! Place your bets! Odds: Blue:1.66 Red:2.46 Multi:29.46 Ace:50.26 Whole:12.54 Combo:1.46
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 16 resolved! Winning bets: blue, combo
+Round 17 is about to begin! Place your bets! Odds: Blue:1.66 Red:2.46 Multi:29.77 Ace:50.80 Whole:12.67 Combo:1.45
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 1536
+Round 17 resolved! Winning bets: blue, combo
+Round 18 is about to begin! Place your bets! Odds: Blue:1.51 Red:2.87 Multi:30.20 Ace:51.53 Whole:12.85 Combo:1.44
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 18 resolved! Winning bets: red, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Purple:1.76 Green:2.27 Multi:37.68 Ace:53.01 Whole:10.19 Combo:1.72
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 1 resolved! Winning bets: purple
+Round 2 is about to begin! Place your bets! Odds: Purple:1.47 Green:3.06 Multi:38.33 Ace:53.92 Whole:10.36 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 2 resolved! Winning bets: purple, combo
+Round 3 is about to begin! Place your bets! Odds: Purple:1.95 Green:2.02 Multi:38.67 Ace:54.40 Whole:10.46 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Volts: 1367
+Round 3 resolved! Winning bets: green, combo
+Round 4 is about to begin! Place your bets! Odds: Purple:2.19 Green:1.81 Multi:39.11 Ace:55.02 Whole:10.57 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 4 resolved! Winning bets: green, combo
+Round 5 is about to begin! Place your bets! Odds: Purple:3.63 Green:1.36 Multi:39.63 Ace:55.75 Whole:10.72 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 5 resolved! Winning bets: purple, combo
+Round 6 is about to begin! Place your bets! Odds: Purple:1.46 Green:3.09 Multi:40.15 Ace:56.48 Whole:10.85 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 6 resolved! Winning bets: purple, combo
+Round 7 is about to begin! Place your bets! Odds: Purple:1.99 Green:1.98 Multi:40.70 Ace:57.26 Whole:11.00 Combo:1.64
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Volts: 1554
+Round 7 resolved! Winning bets: purple
+Round 8 is about to begin! Place your bets! Odds: Purple:1.81 Green:2.19 Multi:41.27 Ace:58.06 Whole:11.16 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 8 resolved! Winning bets: purple, combo
+Round 9 is about to begin! Place your bets! Odds: Purple:1.75 Green:2.28 Multi:41.70 Ace:58.66 Whole:11.27 Combo:1.62
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 9 resolved! Winning bets: purple
+Round 10 is about to begin! Place your bets! Odds: Purple:1.72 Green:2.33 Multi:42.37 Ace:59.60 Whole:11.45 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 10 resolved! Winning bets: purple
+Round 11 is about to begin! Place your bets! Odds: Green:1.87 Purple:2.11 Multi:42.75 Ace:60.14 Whole:11.56 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting purple 10%
+Volts: 930
+Round 11 resolved! Winning bets: multi, purple, combo
+Round 12 is about to begin! Place your bets! Odds: Green:2.08 Purple:1.89 Multi:40.79 Ace:60.85 Whole:11.69 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 12 resolved! Winning bets: purple, combo
+Round 13 is about to begin! Place your bets! Odds: Green:3.18 Purple:1.44 Multi:41.15 Ace:61.38 Whole:11.79 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 13 resolved! Winning bets: green
+Round 14 is about to begin! Place your bets! Odds: Green:1.69 Purple:2.40 Multi:41.55 Ace:61.97 Whole:11.91 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 14 resolved! Winning bets: purple, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Green:2.34 Purple:1.72 Multi:59.22 Ace:97.29 Whole:10.25 Combo:1.77
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Requesting volts...
+Volts: 2065
+Round 1 resolved! Winning bets: green
+Round 2 is about to begin! Place your bets! Odds: Green:1.79 Purple:2.21 Multi:59.79 Ace:98.23 Whole:10.35 Combo:1.76
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 2 resolved! Winning bets: green
+Round 3 is about to begin! Place your bets! Odds: Green:1.75 Purple:2.28 Multi:60.26 Ace:98.99 Whole:10.43 Combo:1.75
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 3 resolved! Winning bets: purple, combo
+Round 4 is about to begin! Place your bets! Odds: Green:2.28 Purple:1.75 Multi:60.65 Ace:99.62 Whole:10.50 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 4 resolved! Winning bets: green, combo
+Round 5 is about to begin! Place your bets! Odds: Green:1.77 Purple:2.26 Multi:61.10 Ace:100.36 Whole:10.57 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting purple 10%
+Volts: 2674
+Round 5 resolved! Winning bets: purple, combo
+Round 6 is about to begin! Place your bets! Odds: Green:2.27 Purple:1.75 Multi:61.58 Ace:101.13 Whole:10.65 Combo:1.72
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 6 resolved! Winning bets: purple, combo
+Round 7 is about to begin! Place your bets! Odds: Green:2.16 Purple:1.83 Multi:62.13 Ace:102.04 Whole:10.75 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 7 resolved! Winning bets: purple, combo
+Round 8 is about to begin! Place your bets! Odds: Green:2.34 Purple:1.72 Multi:62.77 Ace:103.10 Whole:10.86 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 8 resolved! Winning bets: purple, whole, combo
+Round 9 is about to begin! Place your bets! Odds: Green:2.36 Purple:1.71 Multi:63.47 Ace:104.24 Whole:10.91 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting green 10%
+Volts: 2553
+Round 9 resolved! Winning bets: purple, combo
+Round 10 is about to begin! Place your bets! Odds: Green:2.41 Purple:1.68 Multi:64.19 Ace:105.42 Whole:11.04 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 10 resolved! Winning bets: purple, combo
+Round 11 is about to begin! Place your bets! Odds: Purple:1.99 Green:1.98 Multi:64.96 Ace:106.67 Whole:11.17 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 11 resolved! Winning bets: green
+Round 12 is about to begin! Place your bets! Odds: Purple:2.55 Green:1.62 Multi:66.04 Ace:108.45 Whole:11.35 Combo:1.64
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 12 resolved! Winning bets: purple, combo
+Round 13 is about to begin! Place your bets! Odds: Purple:1.75 Green:2.27 Multi:66.95 Ace:109.93 Whole:11.51 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Requesting volts...
+Volts: 1733
+Round 13 resolved! Winning bets: purple, combo
+Round 14 is about to begin! Place your bets! Odds: Purple:1.62 Green:2.54 Multi:68.13 Ace:111.86 Whole:11.71 Combo:1.61
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 14 resolved! Winning bets: green, combo
+Round 15 is about to begin! Place your bets! Odds: Purple:2.51 Green:1.63 Multi:69.41 Ace:113.95 Whole:11.93 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 15 resolved! Winning bets: purple, combo
+Round 16 is about to begin! Place your bets! Odds: Purple:1.75 Green:2.29 Multi:70.79 Ace:116.21 Whole:12.17 Combo:1.57
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 16 resolved! Winning bets: purple, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:1.83 Blue:2.16 Multi:37.08 Ace:50.13 Whole:10.14 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Volts: 2338
+Round 1 resolved! Winning bets: whole, red
+Round 2 is about to begin! Place your bets! Odds: Red:1.61 Blue:2.59 Multi:37.99 Ace:51.35 Whole:10.20 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 2 resolved! Winning bets: blue
+Round 3 is about to begin! Place your bets! Odds: Red:3.17 Blue:1.44 Multi:38.78 Ace:52.42 Whole:10.41 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 3 resolved! Winning bets: blue, combo
+Round 4 is about to begin! Place your bets! Odds: Red:2.12 Blue:1.86 Multi:39.38 Ace:53.24 Whole:10.57 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 4 resolved! Winning bets: blue
+Round 5 is about to begin! Place your bets! Odds: Red:2.84 Blue:1.52 Multi:39.94 Ace:54.00 Whole:10.72 Combo:1.62
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Requesting volts...
+Volts: 1502
+Round 5 resolved! Winning bets: red, combo
+Round 6 is about to begin! Place your bets! Odds: Red:1.63 Blue:2.53 Multi:40.69 Ace:55.01 Whole:10.92 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 6 resolved! Winning bets: blue
+Round 7 is about to begin! Place your bets! Odds: Red:3.21 Blue:1.43 Multi:41.23 Ace:55.73 Whole:11.06 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 7 resolved! Winning bets: red, whole, combo
+Round 8 is about to begin! Place your bets! Odds: Red:1.65 Blue:2.49 Multi:42.18 Ace:57.03 Whole:11.12 Combo:1.57
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 8 resolved! Winning bets: red
+Round 9 is about to begin! Place your bets! Odds: Red:1.60 Blue:2.80 Multi:43.03 Ace:58.17 Whole:11.34 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Volts: 2452
+Round 9 resolved! Winning bets: blue, whole, combo
+Round 10 is about to begin! Place your bets! Odds: Red:2.90 Blue:1.50 Multi:43.82 Ace:59.24 Whole:11.34 Combo:1.55
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 10 resolved! Winning bets: blue, whole, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:1.74 Red:2.30 Multi:44.50 Ace:60.15 Whole:11.32 Combo:1.54
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 11 resolved! Winning bets: ace, blue, combo
+Round 12 is about to begin! Place your bets! Odds: Blue:1.66 Red:2.46 Multi:45.27 Ace:56.01 Whole:11.51 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 12 resolved! Winning bets: blue
+Round 13 is about to begin! Place your bets! Odds: Blue:1.65 Red:2.65 Multi:45.98 Ace:56.89 Whole:11.70 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 3870
+Round 13 resolved! Winning bets: blue, combo
+Round 14 is about to begin! Place your bets! Odds: Blue:1.67 Red:2.44 Multi:46.42 Ace:57.43 Whole:11.81 Combo:1.51
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 14 resolved! Winning bets: blue
+Round 15 is about to begin! Place your bets! Odds: Blue:1.64 Red:2.50 Multi:47.20 Ace:58.40 Whole:12.00 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 15 resolved! Winning bets: blue, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.70 Blue:1.57 Multi:53.91 Ace:60.25 Whole:16.79 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 1 resolved! Winning bets: red
+Round 2 is about to begin! Place your bets! Odds: Red:1.56 Blue:2.73 Multi:54.62 Ace:61.04 Whole:17.01 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting blue 10%
+Volts: 3173
+Round 2 resolved! Winning bets: blue
+Round 3 is about to begin! Place your bets! Odds: Red:3.61 Blue:1.37 Multi:55.32 Ace:61.83 Whole:17.23 Combo:1.57
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 3 resolved! Winning bets: blue, combo
+Round 4 is about to begin! Place your bets! Odds: Red:2.88 Blue:1.58 Multi:55.89 Ace:62.47 Whole:17.41 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 4 resolved! Winning bets: multi, blue
+Round 5 is about to begin! Place your bets! Odds: Red:2.06 Blue:1.91 Multi:50.02 Ace:63.26 Whole:17.63 Combo:1.55
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 5 resolved! Winning bets: blue, whole, combo
+Round 6 is about to begin! Place your bets! Odds: Red:2.12 Blue:1.86 Multi:50.60 Ace:64.00 Whole:17.13 Combo:1.55
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting red 10%
+Volts: 4763
+Round 6 resolved! Winning bets: blue
+Round 7 is about to begin! Place your bets! Odds: Red:2.22 Blue:1.79 Multi:51.34 Ace:64.93 Whole:17.38 Combo:1.54
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 7 resolved! Winning bets: blue, combo
+Round 8 is about to begin! Place your bets! Odds: Red:2.28 Blue:1.75 Multi:51.88 Ace:65.61 Whole:17.57 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 8 resolved! Winning bets: blue, combo
+Round 9 is about to begin! Place your bets! Odds: Red:2.35 Blue:1.71 Multi:52.43 Ace:66.31 Whole:17.76 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 9 resolved! Winning bets: blue, combo
+Round 10 is about to begin! Place your bets! Odds: Red:2.43 Blue:1.67 Multi:53.05 Ace:67.09 Whole:17.97 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 2781
+Round 10 resolved! Winning bets: blue, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:1.77 Red:2.26 Multi:53.70 Ace:67.92 Whole:18.19 Combo:1.51
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 11 resolved! Winning bets: red
+Round 12 is about to begin! Place your bets! Odds: Blue:2.39 Red:1.69 Multi:54.40 Ace:68.80 Whole:18.43 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 12 resolved! Winning bets: red
+Round 13 is about to begin! Place your bets! Odds: Blue:2.36 Red:1.71 Multi:55.05 Ace:69.61 Whole:18.65 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 13 resolved! Winning bets: red, combo
+Round 14 is about to begin! Place your bets! Odds: Blue:2.35 Red:1.72 Multi:55.54 Ace:70.14 Whole:18.82 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Requesting volts...
+Volts: 1749
+Round 14 resolved! Winning bets: red, combo
+Round 15 is about to begin! Place your bets! Odds: Blue:2.42 Red:1.68 Multi:55.77 Ace:70.34 Whole:18.90 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 15 resolved! Winning bets: red, combo
+Round 16 is about to begin! Place your bets! Odds: Blue:2.48 Red:1.65 Multi:56.00 Ace:70.63 Whole:19.00 Combo:1.48
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 16 resolved! Winning bets: red
+Round 17 is about to begin! Place your bets! Odds: Blue:2.60 Red:1.60 Multi:56.27 Ace:70.98 Whole:19.09 Combo:1.48
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 17 resolved! Winning bets: blue, combo
+Round 18 is about to begin! Place your bets! Odds: Blue:1.97 Red:2.00 Multi:56.59 Ace:71.37 Whole:19.20 Combo:1.48
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 1501
+Round 18 resolved! Winning bets: red, combo
+Round 19 is about to begin! Place your bets! Odds: Blue:2.58 Red:1.61 Multi:56.91 Ace:71.78 Whole:19.31 Combo:1.47
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 19 resolved! Winning bets: red, whole, combo
+Round 20 is about to begin! Place your bets! Odds: Blue:2.56 Red:1.62 Multi:57.40 Ace:72.40 Whole:18.74 Combo:1.47
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 20 resolved! Winning bets: red, combo
+Round 21 is about to begin! Place your bets! Odds: Blue:2.53 Red:1.63 Multi:57.80 Ace:72.91 Whole:18.87 Combo:1.47
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 21 resolved! Winning bets: red
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Blue:2.06 Red:1.91 Multi:29.45 Ace:71.39 Whole:9.42 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting blue 10%
+Volts: 1436
+Round 1 resolved! Winning bets: red, combo
+Round 2 is about to begin! Place your bets! Odds: Blue:1.79 Red:2.22 Multi:29.79 Ace:72.20 Whole:9.53 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 2 resolved! Winning bets: red, combo
+Round 3 is about to begin! Place your bets! Odds: Blue:1.74 Red:2.30 Multi:30.14 Ace:73.05 Whole:9.64 Combo:1.57
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 3 resolved! Winning bets: blue, combo
+Round 4 is about to begin! Place your bets! Odds: Blue:1.54 Red:2.76 Multi:30.53 Ace:73.99 Whole:9.77 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 4 resolved! Winning bets: blue, combo
+Round 5 is about to begin! Place your bets! Odds: Blue:1.62 Red:2.54 Multi:30.96 Ace:75.05 Whole:9.91 Combo:1.55
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 1192
+Round 5 resolved! Winning bets: blue
+Round 6 is about to begin! Place your bets! Odds: Blue:1.77 Red:2.25 Multi:31.42 Ace:76.14 Whole:10.05 Combo:1.54
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 6 resolved! Winning bets: blue
+Round 7 is about to begin! Place your bets! Odds: Blue:1.76 Red:2.26 Multi:31.91 Ace:77.33 Whole:10.21 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 7 resolved! Winning bets: blue
+Round 8 is about to begin! Place your bets! Odds: Blue:1.74 Red:2.31 Multi:32.24 Ace:78.15 Whole:10.32 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 8 resolved! Winning bets: blue, combo
+Round 9 is about to begin! Place your bets! Odds: Blue:1.70 Red:2.37 Multi:32.52 Ace:78.81 Whole:10.40 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting red 10%
+Volts: 657
+Round 9 resolved! Winning bets: blue, combo
+Round 10 is about to begin! Place your bets! Odds: Blue:1.68 Red:2.41 Multi:32.86 Ace:79.63 Whole:10.51 Combo:1.51
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 10 resolved! Winning bets: blue
+Round 11 is about to begin! Place your bets! Odds: Red:2.69 Blue:1.57 Multi:33.24 Ace:80.56 Whole:10.63 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 11 resolved! Winning bets: blue
+Round 12 is about to begin! Place your bets! Odds: Red:2.22 Blue:1.79 Multi:33.53 Ace:81.27 Whole:10.73 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 12 resolved! Winning bets: multi, red, combo
+Round 13 is about to begin! Place your bets! Odds: Red:1.69 Blue:2.39 Multi:32.68 Ace:81.98 Whole:10.82 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting blue 10%
+Volts: 629
+Round 13 resolved! Winning bets: whole, red
+Round 14 is about to begin! Place your bets! Odds: Red:1.30 Blue:4.14 Multi:32.78 Ace:82.24 Whole:10.74 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 14 resolved! Winning bets: blue, combo
+Round 15 is about to begin! Place your bets! Odds: Red:2.10 Blue:1.88 Multi:32.88 Ace:82.50 Whole:10.77 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 15 resolved! Winning bets: blue, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Green:2.32 Purple:1.73 Multi:59.83 Ace:98.29 Whole:10.29 Combo:1.76
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 1 resolved! Winning bets: purple, combo
+Round 2 is about to begin! Place your bets! Odds: Green:2.31 Purple:1.74 Multi:60.31 Ace:99.08 Whole:10.38 Combo:1.75
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting green 10%
+Volts: 719
+Round 2 resolved! Winning bets: green, whole, combo
+Round 3 is about to begin! Place your bets! Odds: Green:1.79 Purple:2.21 Multi:60.88 Ace:100.02 Whole:10.41 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 3 resolved! Winning bets: purple
+Round 4 is about to begin! Place your bets! Odds: Green:2.29 Purple:1.74 Multi:61.48 Ace:101.00 Whole:10.51 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 4 resolved! Winning bets: purple
+Round 5 is about to begin! Place your bets! Odds: Green:2.19 Purple:1.81 Multi:61.98 Ace:101.82 Whole:10.60 Combo:1.72
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 5 resolved! Winning bets: ace, purple, combo
+Round 6 is about to begin! Place your bets! Odds: Green:2.43 Purple:1.67 Multi:62.46 Ace:96.85 Whole:10.68 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Volts: 1627
+Betting green 10%
+Round 6 resolved! Winning bets: green, combo
+Round 7 is about to begin! Place your bets! Odds: Green:1.80 Purple:2.20 Multi:62.94 Ace:97.59 Whole:10.76 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 7 resolved! Winning bets: green, combo
+Round 8 is about to begin! Place your bets! Odds: Green:1.78 Purple:2.23 Multi:63.46 Ace:98.39 Whole:10.85 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 8 resolved! Winning bets: purple, combo
+Round 9 is about to begin! Place your bets! Odds: Green:2.28 Purple:1.75 Multi:64.15 Ace:99.47 Whole:10.97 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 9 resolved! Winning bets: purple, whole, combo
+Round 10 is about to begin! Place your bets! Odds: Green:2.19 Purple:1.80 Multi:64.87 Ace:100.58 Whole:11.02 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Volts: 1949
+Round 10 resolved! Winning bets: purple, combo
+Round 11 is about to begin! Place your bets! Odds: Purple:2.12 Green:1.86 Multi:65.65 Ace:101.80 Whole:11.15 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 11 resolved! Winning bets: purple, combo
+Round 12 is about to begin! Place your bets! Odds: Purple:1.82 Green:2.18 Multi:66.40 Ace:102.95 Whole:11.28 Combo:1.64
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 12 resolved! Winning bets: purple, combo
+Round 13 is about to begin! Place your bets! Odds: Purple:1.71 Green:2.35 Multi:67.19 Ace:104.18 Whole:11.41 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 13 resolved! Winning bets: purple, combo
+Round 14 is about to begin! Place your bets! Odds: Purple:1.89 Green:2.08 Multi:68.11 Ace:105.61 Whole:11.57 Combo:1.61
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting green 10%
+Volts: 1606
+Round 14 resolved! Winning bets: green, combo
+Round 15 is about to begin! Place your bets! Odds: Purple:2.65 Green:1.58 Multi:69.09 Ace:107.12 Whole:11.73 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 15 resolved! Winning bets: purple, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:1.79 Blue:2.22 Multi:38.37 Ace:47.47 Whole:9.76 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 1 resolved! Winning bets: blue
+Round 2 is about to begin! Place your bets! Odds: Red:3.17 Blue:1.44 Multi:39.08 Ace:48.36 Whole:9.94 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 2 resolved! Winning bets: blue
+Round 3 is about to begin! Place your bets! Odds: Red:2.17 Blue:1.83 Multi:39.70 Ace:49.12 Whole:10.10 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 1732
+Round 3 resolved! Winning bets: multi, blue
+Round 4 is about to begin! Place your bets! Odds: Red:2.77 Blue:1.54 Multi:37.66 Ace:49.78 Whole:10.23 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 4 resolved! Winning bets: blue
+Round 5 is about to begin! Place your bets! Odds: Red:2.90 Blue:1.51 Multi:38.08 Ace:50.35 Whole:10.35 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 5 resolved! Winning bets: blue
+Round 6 is about to begin! Place your bets! Odds: Red:2.99 Blue:1.48 Multi:38.44 Ace:50.81 Whole:10.44 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 6 resolved! Winning bets: red
+Round 7 is about to begin! Place your bets! Odds: Red:1.70 Blue:2.37 Multi:38.78 Ace:51.26 Whole:10.54 Combo:1.64
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting blue 10%
+Volts: 1626
+Round 7 resolved! Winning bets: blue, combo
+Round 8 is about to begin! Place your bets! Odds: Red:3.42 Blue:1.40 Multi:39.08 Ace:51.66 Whole:10.62 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 8 resolved! Winning bets: blue, combo
+Round 9 is about to begin! Place your bets! Odds: Red:2.38 Blue:1.70 Multi:39.41 Ace:52.10 Whole:10.71 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 9 resolved! Winning bets: blue, combo
+Round 10 is about to begin! Place your bets! Odds: Red:3.07 Blue:1.46 Multi:39.75 Ace:52.55 Whole:10.80 Combo:1.62
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 10 resolved! Winning bets: blue, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:1.52 Red:2.84 Multi:40.18 Ace:53.12 Whole:10.92 Combo:1.61
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Volts: 1467
+Betting red 10%
+Round 11 resolved! Winning bets: red
+Round 12 is about to begin! Place your bets! Odds: Blue:2.00 Red:1.96 Multi:40.62 Ace:53.70 Whole:11.04 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 12 resolved! Winning bets: blue, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:1.47 Red:3.03 Multi:41.02 Ace:54.23 Whole:11.15 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 13 resolved! Winning bets: red
+Round 14 is about to begin! Place your bets! Odds: Blue:1.95 Red:2.01 Multi:41.47 Ace:54.82 Whole:11.27 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 14 resolved! Winning bets: blue, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Green:2.33 Purple:1.72 Multi:60.47 Ace:93.77 Whole:10.28 Combo:1.76
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Requesting volts...
+Volts: 1574
+Round 1 resolved! Winning bets: green
+Round 2 is about to begin! Place your bets! Odds: Green:1.79 Purple:2.21 Multi:61.04 Ace:94.64 Whole:10.37 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 2 resolved! Winning bets: purple
+Round 3 is about to begin! Place your bets! Odds: Green:2.32 Purple:1.73 Multi:61.50 Ace:95.36 Whole:10.45 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 3 resolved! Winning bets: purple
+Round 4 is about to begin! Place your bets! Odds: Green:2.22 Purple:1.79 Multi:61.91 Ace:96.00 Whole:10.52 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 4 resolved! Winning bets: purple, combo
+Round 5 is about to begin! Place your bets! Odds: Green:2.41 Purple:1.68 Multi:62.26 Ace:96.54 Whole:10.58 Combo:1.72
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting green 10%
+Volts: 1432
+Round 5 resolved! Winning bets: green, combo
+Round 6 is about to begin! Place your bets! Odds: Green:1.81 Purple:2.18 Multi:62.72 Ace:97.25 Whole:10.66 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 6 resolved! Winning bets: green, combo
+Round 7 is about to begin! Place your bets! Odds: Green:1.80 Purple:2.20 Multi:63.24 Ace:98.05 Whole:10.75 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 7 resolved! Winning bets: green
+Round 8 is about to begin! Place your bets! Odds: Green:2.20 Purple:1.80 Multi:63.78 Ace:98.89 Whole:10.84 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 8 resolved! Winning bets: green
+Round 9 is about to begin! Place your bets! Odds: Green:2.15 Purple:1.83 Multi:64.28 Ace:99.66 Whole:10.92 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Requesting volts...
+Volts: 1158
+Round 9 resolved! Winning bets: green
+Round 10 is about to begin! Place your bets! Odds: Green:2.10 Purple:1.88 Multi:64.73 Ace:100.37 Whole:11.00 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 10 resolved! Winning bets: purple, combo
+Round 11 is about to begin! Place your bets! Odds: Purple:2.14 Green:1.84 Multi:65.18 Ace:101.06 Whole:11.08 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 11 resolved! Winning bets: green
+Round 12 is about to begin! Place your bets! Odds: Purple:2.69 Green:1.57 Multi:65.69 Ace:101.86 Whole:11.16 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 12 resolved! Winning bets: green, whole, combo
+Round 13 is about to begin! Place your bets! Odds: Purple:1.96 Green:2.00 Multi:66.12 Ace:102.51 Whole:11.17 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting green 10%
+Volts: 1088
+Round 13 resolved! Winning bets: green, combo
+Round 14 is about to begin! Place your bets! Odds: Purple:1.94 Green:2.02 Multi:66.56 Ace:103.20 Whole:11.24 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 14 resolved! Winning bets: purple, combo
+Round 15 is about to begin! Place your bets! Odds: Purple:1.86 Green:2.13 Multi:67.14 Ace:104.09 Whole:11.34 Combo:1.64
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting green 10%
+Round 15 resolved! Winning bets: green, combo
+Round 16 is about to begin! Place your bets! Odds: Purple:2.74 Green:1.55 Multi:67.75 Ace:105.04 Whole:11.44 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting purple 10%
+Round 16 resolved! Winning bets: green, combo
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.56 Blue:1.62 Multi:50.29 Ace:63.60 Whole:16.38 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Requesting volts...
+Volts: 1091
+Round 1 resolved! Winning bets: blue, combo
+Round 2 is about to begin! Place your bets! Odds: Red:3.68 Blue:1.36 Multi:51.05 Ace:64.56 Whole:16.63 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 2 resolved! Winning bets: blue, combo
+Round 3 is about to begin! Place your bets! Odds: Red:3.00 Blue:1.54 Multi:51.96 Ace:65.71 Whole:16.93 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 3 resolved! Winning bets: blue, combo
+Round 4 is about to begin! Place your bets! Odds: Red:2.39 Blue:1.69 Multi:52.94 Ace:66.95 Whole:17.25 Combo:1.54
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 4 resolved! Winning bets: blue
+Round 5 is about to begin! Place your bets! Odds: Red:2.52 Blue:1.63 Multi:53.99 Ace:68.27 Whole:17.59 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting red 10%
+Volts: 801
+Round 5 resolved! Winning bets: blue, whole, combo
+Round 6 is about to begin! Place your bets! Odds: Red:2.58 Blue:1.61 Multi:55.00 Ace:69.55 Whole:17.26 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 6 resolved! Winning bets: red, combo
+Round 7 is about to begin! Place your bets! Odds: Red:1.68 Blue:2.41 Multi:55.98 Ace:70.79 Whole:17.57 Combo:1.51
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 7 resolved! Winning bets: red, combo
+Round 8 is about to begin! Place your bets! Odds: Red:1.48 Blue:3.00 Multi:56.97 Ace:72.05 Whole:17.88 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 8 resolved! Winning bets: blue
+Round 9 is about to begin! Place your bets! Odds: Red:4.04 Blue:1.31 Multi:57.51 Ace:72.72 Whole:18.05 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Volts: 1011
+Round 9 resolved! Winning bets: ace, red, combo
+Round 10 is about to begin! Place your bets! Odds: Red:1.64 Blue:2.51 Multi:57.99 Ace:63.93 Whole:18.20 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 10 resolved! Winning bets: whole, blue
+Round 11 is about to begin! Place your bets! Odds: Blue:1.84 Red:2.15 Multi:58.51 Ace:64.50 Whole:17.71 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 11 resolved! Winning bets: blue
+Round 12 is about to begin! Place your bets! Odds: Blue:1.93 Red:2.04 Multi:58.89 Ace:64.93 Whole:17.83 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 12 resolved! Winning bets: red, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:2.51 Red:1.64 Multi:59.26 Ace:65.32 Whole:17.94 Combo:1.48
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Requesting volts...
+Volts: 2076
+Round 13 resolved! Winning bets: red, combo
+Round 14 is about to begin! Place your bets! Odds: Blue:2.53 Red:1.63 Multi:59.61 Ace:65.72 Whole:18.05 Combo:1.48
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 14 resolved! Winning bets: blue
+Round 15 is about to begin! Place your bets! Odds: Blue:2.01 Red:1.96 Multi:60.01 Ace:66.16 Whole:18.17 Combo:1.48
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 15 resolved! Winning bets: blue, combo
+Round 16 is about to begin! Place your bets! Odds: Blue:1.52 Red:2.85 Multi:60.35 Ace:66.53 Whole:18.27 Combo:1.47
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 16 resolved! Winning bets: blue
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:1.62 Blue:2.56 Multi:46.70 Ace:45.75 Whole:11.67 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Requesting volts...
+Volts: 1893
+Round 1 resolved! Winning bets: red, combo
+Round 2 is about to begin! Place your bets! Odds: Red:1.88 Blue:2.09 Multi:47.32 Ace:46.36 Whole:11.83 Combo:1.71
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 2 resolved! Winning bets: red, whole, combo
+Round 3 is about to begin! Place your bets! Odds: Red:1.97 Blue:2.00 Multi:48.11 Ace:47.13 Whole:11.72 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 3 resolved! Winning bets: red
+Round 4 is about to begin! Place your bets! Odds: Red:1.82 Blue:2.18 Multi:48.85 Ace:47.85 Whole:11.90 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 4 resolved! Winning bets: blue
+Round 5 is about to begin! Place your bets! Odds: Red:2.94 Blue:1.50 Multi:49.54 Ace:48.54 Whole:12.07 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Volts: 1809
+Round 5 resolved! Winning bets: red
+Round 6 is about to begin! Place your bets! Odds: Red:1.84 Blue:2.14 Multi:50.14 Ace:49.12 Whole:12.22 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 6 resolved! Winning bets: blue, combo
+Round 7 is about to begin! Place your bets! Odds: Red:2.86 Blue:1.52 Multi:50.63 Ace:49.60 Whole:12.34 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 7 resolved! Winning bets: blue, combo
+Round 8 is about to begin! Place your bets! Odds: Red:2.53 Blue:1.63 Multi:51.22 Ace:50.18 Whole:12.48 Combo:1.65
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 8 resolved! Winning bets: red, combo
+Round 9 is about to begin! Place your bets! Odds: Red:1.89 Blue:2.08 Multi:51.89 Ace:50.83 Whole:12.64 Combo:1.63
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Volts: 2317
+Round 9 resolved! Winning bets: red, combo
+Round 10 is about to begin! Place your bets! Odds: Red:1.94 Blue:2.03 Multi:52.53 Ace:51.46 Whole:12.80 Combo:1.62
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 10 resolved! Winning bets: ace, red, combo
+Round 11 is about to begin! Place your bets! Odds: Blue:1.74 Red:2.30 Multi:53.28 Ace:47.36 Whole:12.98 Combo:1.61
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 11 resolved! Winning bets: red, combo
+Round 12 is about to begin! Place your bets! Odds: Blue:2.49 Red:1.65 Multi:53.98 Ace:47.98 Whole:13.15 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 12 resolved! Winning bets: red, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:2.76 Red:1.55 Multi:54.73 Ace:48.65 Whole:13.34 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Volts: 3119
+Betting combo 5%
+Betting blue 10%
+Round 13 resolved! Winning bets: blue, combo
+Round 14 is about to begin! Place your bets! Odds: Blue:1.71 Red:2.36 Multi:55.54 Ace:49.37 Whole:13.53 Combo:1.57
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 14 resolved! Winning bets: red
+Round 15 is about to begin! Place your bets! Odds: Blue:2.55 Red:1.62 Multi:56.40 Ace:50.14 Whole:13.74 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 15 resolved! Winning bets: red
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.04 Blue:1.93 Multi:64.68 Ace:43.46 Whole:8.91 Combo:1.81
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 1 resolved! Winning bets: blue
+Round 2 is about to begin! Place your bets! Odds: Red:2.29 Blue:1.75 Multi:65.33 Ace:43.89 Whole:9.00 Combo:1.80
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting red 10%
+Volts: 2655
+Round 2 resolved! Winning bets: blue, whole, combo
+Round 3 is about to begin! Place your bets! Odds: Red:3.05 Blue:1.47 Multi:66.04 Ace:44.37 Whole:8.96 Combo:1.79
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 3 resolved! Winning bets: blue
+Round 4 is about to begin! Place your bets! Odds: Red:2.69 Blue:1.57 Multi:66.88 Ace:44.93 Whole:9.07 Combo:1.77
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 4 resolved! Winning bets: blue
+Round 5 is about to begin! Place your bets! Odds: Red:2.77 Blue:1.54 Multi:67.59 Ace:45.41 Whole:9.17 Combo:1.77
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 5 resolved! Winning bets: ace, blue, combo
+Round 6 is about to begin! Place your bets! Odds: Red:2.82 Blue:1.53 Multi:68.27 Ace:42.55 Whole:9.26 Combo:1.76
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Requesting volts...
+Volts: 2150
+Round 6 resolved! Winning bets: red, combo
+Round 7 is about to begin! Place your bets! Odds: Red:1.95 Blue:2.01 Multi:69.01 Ace:43.00 Whole:9.36 Combo:1.74
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 7 resolved! Winning bets: red
+Round 8 is about to begin! Place your bets! Odds: Red:1.63 Blue:2.54 Multi:69.84 Ace:43.52 Whole:9.47 Combo:1.73
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 8 resolved! Winning bets: red, combo
+Round 9 is about to begin! Place your bets! Odds: Red:2.02 Blue:1.95 Multi:70.47 Ace:43.91 Whole:9.56 Combo:1.72
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 9 resolved! Winning bets: blue, combo
+Round 10 is about to begin! Place your bets! Odds: Red:2.31 Blue:1.74 Multi:71.35 Ace:44.46 Whole:9.68 Combo:1.70
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Requesting volts...
+Volts: 1778
+Round 10 resolved! Winning bets: blue
+Round 11 is about to begin! Place your bets! Odds: Blue:1.99 Red:1.98 Multi:72.20 Ace:44.99 Whole:9.79 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 11 resolved! Winning bets: whole, blue
+Round 12 is about to begin! Place your bets! Odds: Blue:1.99 Red:1.97 Multi:72.84 Ace:45.39 Whole:9.73 Combo:1.69
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 12 resolved! Winning bets: red, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:2.11 Red:1.86 Multi:73.42 Ace:45.75 Whole:9.81 Combo:1.68
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 13 resolved! Winning bets: red
+Round 14 is about to begin! Place your bets! Odds: Blue:2.45 Red:1.66 Multi:74.05 Ace:46.14 Whole:9.89 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting blue 10%
+Volts: 1374
+Round 14 resolved! Winning bets: whole, blue
+Round 15 is about to begin! Place your bets! Odds: Blue:2.03 Red:1.94 Multi:74.61 Ace:46.49 Whole:9.81 Combo:1.67
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 15 resolved! Winning bets: blue, combo
+Round 16 is about to begin! Place your bets! Odds: Blue:1.50 Red:2.92 Multi:75.34 Ace:46.93 Whole:9.91 Combo:1.66
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 16 resolved! Winning bets: blue
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.64 Blue:1.59 Multi:52.36 Ace:57.73 Whole:15.86 Combo:1.60
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 1 resolved! Winning bets: red
+Round 2 is about to begin! Place your bets! Odds: Red:1.61 Blue:2.59 Multi:53.11 Ace:58.56 Whole:16.08 Combo:1.59
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting blue 10%
+Volts: 1736
+Round 2 resolved! Winning bets: blue, combo
+Round 3 is about to begin! Place your bets! Odds: Red:3.59 Blue:1.37 Multi:53.84 Ace:59.37 Whole:16.31 Combo:1.58
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 3 resolved! Winning bets: blue, combo
+Round 4 is about to begin! Place your bets! Odds: Red:3.02 Blue:1.53 Multi:54.93 Ace:60.56 Whole:16.63 Combo:1.56
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 4 resolved! Winning bets: blue
+Round 5 is about to begin! Place your bets! Odds: Red:2.38 Blue:1.70 Multi:55.98 Ace:61.72 Whole:16.95 Combo:1.55
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 5 resolved! Winning bets: blue, combo
+Round 6 is about to begin! Place your bets! Odds: Red:2.43 Blue:1.67 Multi:56.49 Ace:62.28 Whole:17.10 Combo:1.54
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Requesting volts...
+Betting combo 5%
+Betting red 10%
+Volts: 1417
+Round 6 resolved! Winning bets: red, combo
+Round 7 is about to begin! Place your bets! Odds: Red:1.63 Blue:2.54 Multi:57.04 Ace:62.89 Whole:17.27 Combo:1.53
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 7 resolved! Winning bets: red, combo
+Round 8 is about to begin! Place your bets! Odds: Red:1.44 Blue:3.20 Multi:57.62 Ace:63.53 Whole:17.45 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 8 resolved! Winning bets: red
+Round 9 is about to begin! Place your bets! Odds: Red:1.89 Blue:2.09 Multi:58.28 Ace:64.25 Whole:17.65 Combo:1.52
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 9 resolved! Winning bets: blue, combo
+Round 10 is about to begin! Place your bets! Odds: Red:3.59 Blue:1.37 Multi:58.86 Ace:64.90 Whole:17.82 Combo:1.51
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Requesting volts...
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Volts: 1333
+Round 10 resolved! Winning bets: whole, blue
+Round 11 is about to begin! Place your bets! Odds: Blue:1.85 Red:2.14 Multi:59.48 Ace:65.54 Whole:17.40 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 11 resolved! Winning bets: whole, blue
+Round 12 is about to begin! Place your bets! Odds: Blue:2.01 Red:1.96 Multi:60.09 Ace:66.20 Whole:16.99 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 12 resolved! Winning bets: blue, combo
+Round 13 is about to begin! Place your bets! Odds: Blue:1.51 Red:2.89 Multi:60.55 Ace:66.71 Whole:17.12 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 13 resolved! Winning bets: blue, combo
+Round 14 is about to begin! Place your bets! Odds: Blue:1.65 Red:2.49 Multi:60.84 Ace:67.03 Whole:17.20 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Requesting volts...
+Volts: 1207
+Round 14 resolved! Winning bets: blue
+Round 15 is about to begin! Place your bets! Odds: Blue:1.61 Red:2.59 Multi:61.12 Ace:67.34 Whole:17.28 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 15 resolved! Winning bets: whole, red
+Round 16 is about to begin! Place your bets! Odds: Blue:2.77 Red:1.54 Multi:61.27 Ace:67.51 Whole:16.77 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 16 resolved! Winning bets: red, whole, combo
+Round 17 is about to begin! Place your bets! Odds: Blue:2.63 Red:1.59 Multi:61.54 Ace:67.80 Whole:16.31 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 17 resolved! Winning bets: whole, red
+Round 18 is about to begin! Place your bets! Odds: Blue:2.82 Red:1.53 Multi:62.01 Ace:68.33 Whole:15.93 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Requesting volts...
+Volts: 1318
+Round 18 resolved! Winning bets: multi, red
+Round 19 is about to begin! Place your bets! Odds: Blue:2.98 Red:1.49 Multi:55.69 Ace:68.49 Whole:15.96 Combo:1.50
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 19 resolved! Winning bets: red, combo
+Round 20 is about to begin! Place your bets! Odds: Blue:3.00 Red:1.48 Multi:56.19 Ace:69.12 Whole:16.11 Combo:1.49
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting blue 10%
+Round 20 resolved! Winning bets: blue
+Participation Bonus: Match Over +100 to all viewers!
+Round 1 is about to begin! Place your bets! Odds: Red:2.29 Blue:1.74 Multi:34.29 Ace:61.67 Whole:12.30 Combo:1.46
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Betting red 10%
+Round 1 resolved! Winning bets: blue, combo
+Round 2 is about to begin! Place your bets! Odds: Red:2.76 Blue:1.54 Multi:35.62 Ace:64.06 Whole:12.77 Combo:1.43
+Placing bets after cooldown period...
+Placing bets...
+Betting multi 1%
+Betting ace 1%
+Betting whole 1%
+Betting combo 5%
+Requesting volts...
+Betting red 10%
+Volts: 2084
