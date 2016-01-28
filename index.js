@@ -36,6 +36,7 @@
 // TODO: Request volts after the end of each match
 // TODO: Track volts % improvement and trend after each match
 // TODO: Get volts count after each round by whispering !b b
+// TODO: Compare odds with round results to work out if odds can be trusted
 
 var irc = require('tmi.js');
 var chalk = require('chalk');
@@ -138,17 +139,19 @@ var placeBets = function(oddsStr) {
   // Sort teams by odds
   oddsByTeam.sort(function(a, b) {
     if (a[0] < b[0]) {
-      return -1;
+      return 1;
     }
 
     if (a[0] > b[0]) {
-      return 1;
+      return -1;
     }
 
     return 0;
   });
 
   // Bet on team with worse odds, because why not
+  // oddsByTeam.reverse();
+
   setTimeout(function() {
     console.log(chalk.gray.bgBlue('Betting ' + oddsByTeam[1][2] + ' 10%'));
     clientWhisper.whisper('bot_cobalt', '!b ' + oddsByTeam[1][1] + ' 10%');

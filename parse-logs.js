@@ -114,5 +114,54 @@ rl.on('line', (line) => {
   //
   // console.log(distribution);
 
+  // var trustCount = {
+  //   yes: 0,
+  //   no: 0,
+  //   total: 0
+  // };
+  //
+  // var oddsTotals = {
+  //   yes: 0,
+  //   no: 0
+  // };
+  //
+  // rounds.forEach((round) => {
+  //   var trustOdds, odds;
+  //
+  //   round[1].forEach((result) => {
+  //     if (result == 'red' || result == 'blue') {
+  //       if (result == 'red') {
+  //         trustOdds = (round[0].red < round[0].blue) ? true : false;
+  //         odds = round[0].red;
+  //       } else if (result == 'blue') {
+  //         trustOdds = (round[0].blue < round[0].red) ? true : false;
+  //         odds = round[0].blue;
+  //       }
+  //     } else if (result == 'purple' || result == 'green') {
+  //       if (result == 'purple') {
+  //         trustOdds = (round[0].purple < round[0].green) ? true : false;
+  //         odds = round[0].purple;
+  //       } else if (result == 'green') {
+  //         trustOdds = (round[0].green < round[0].purple) ? true : false;
+  //         odds = round[0].green;
+  //       }
+  //     }
+  //   });
+  //
+  //   if (trustOdds) {
+  //     trustCount.yes++;
+  //     oddsTotals.yes += odds;
+  //   } else {
+  //     trustCount.no++;
+  //     oddsTotals.no += odds;
+  //   }
+  //
+  //   trustCount.total++;
+  //
+  //   console.log(trustOdds);
+  // });
+  //
+  // console.log(trustCount, oddsTotals);
+
   process.exit();
 });
