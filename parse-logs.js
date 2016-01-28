@@ -73,6 +73,9 @@ rl.on('line', (line) => {
 }).on('close', () => {
   console.log(JSON.stringify(rounds, null, 2));
 
+  // var totalRedBlueRounds = 0;
+  // var totalPurpleGreenRounds = 0;
+  //
   // var distribution = {
   //   multi: 0,
   //   ace: 0,
@@ -87,12 +90,27 @@ rl.on('line', (line) => {
   // console.log(rounds.length);
   //
   // rounds.forEach((round) => {
+  //   var roundSet = false;
+  //
   //   round[1].forEach((result) => {
   //     if (distribution[result] !== undefined) {
+  //       if (!roundSet) {
+  //         if (result == 'red' || result == 'blue') {
+  //           totalRedBlueRounds++;
+  //           roundSet = true;
+  //         } else if (result == 'purple' || result == 'green') {
+  //           totalPurpleGreenRounds++;
+  //           roundSet = true;
+  //         }
+  //       }
+  //
   //       distribution[result]++;
   //     }
   //   });
   // });
+  //
+  // console.log(totalRedBlueRounds);
+  // console.log(totalPurpleGreenRounds);
   //
   // console.log(distribution);
 
